@@ -1,0 +1,613 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchInput /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#323131",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "paddingBottom": 12,
+          "paddingLeft": 10,
+          "paddingRight": 10,
+          "paddingTop": 12,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 14,
+        },
+        Array [
+          Object {
+            "color": "#fcfcfc",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+        },
+        undefined,
+      ]
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      placeholderTextColor="#7b7c7d"
+      secureTextEntry={undefined}
+      selectionColor="#2a986f"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#7b7c7d",
+            "fontFamily": "Open Sans",
+            "fontSize": 12,
+            "fontStyle": "italic",
+            "marginLeft": 10,
+            "marginRight": 10,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value=""
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 0,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "rgba(0, 0, 0, 0.12)",
+            "height": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "rgba(63,81,181, 0.9)",
+            "height": 0,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<SearchInput /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#5d5959",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "paddingBottom": 12,
+          "paddingLeft": 10,
+          "paddingRight": 10,
+          "paddingTop": 12,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 14,
+        },
+        Array [
+          Object {
+            "color": "#4b4c4d",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+        },
+        undefined,
+      ]
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      placeholderTextColor="#fff"
+      secureTextEntry={undefined}
+      selectionColor="#2a986f"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#fff",
+            "fontFamily": "Open Sans",
+            "fontSize": 12,
+            "fontStyle": "italic",
+            "marginLeft": 10,
+            "marginRight": 10,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value=""
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 0,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "rgba(0, 0, 0, 0.12)",
+            "height": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "rgba(63,81,181, 0.9)",
+            "height": 0,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<SearchInput /> shows close icon if val non null dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#323131",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "paddingBottom": 12,
+          "paddingLeft": 10,
+          "paddingRight": 10,
+          "paddingTop": 12,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 14,
+        },
+        Array [
+          Object {
+            "color": "#fcfcfc",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+        },
+        undefined,
+      ]
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      placeholderTextColor="#7b7c7d"
+      secureTextEntry={undefined}
+      selectionColor="#2a986f"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#7b7c7d",
+            "fontFamily": "Open Sans",
+            "fontSize": 12,
+            "fontStyle": "italic",
+            "marginLeft": 10,
+            "marginRight": 10,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="Test"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 0,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "rgba(0, 0, 0, 0.12)",
+            "height": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "rgba(63,81,181, 0.9)",
+            "height": 0,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    onPress={[Function]}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 14,
+        },
+        Array [
+          Object {
+            "color": "#fcfcfc",
+          },
+          Array [
+            Object {
+              "color": "#f25c74",
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;
+
+exports[`<SearchInput /> shows close icon if val non null light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#5d5959",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "paddingBottom": 12,
+          "paddingLeft": 10,
+          "paddingRight": 10,
+          "paddingTop": 12,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 14,
+        },
+        Array [
+          Object {
+            "color": "#4b4c4d",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <View
+    style={
+      Array [
+        Object {
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+        },
+        undefined,
+      ]
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      placeholderTextColor="#fff"
+      secureTextEntry={undefined}
+      selectionColor="#2a986f"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#fff",
+            "fontFamily": "Open Sans",
+            "fontSize": 12,
+            "fontStyle": "italic",
+            "marginLeft": 10,
+            "marginRight": 10,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="Test"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 0,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "rgba(0, 0, 0, 0.12)",
+            "height": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "rgba(63,81,181, 0.9)",
+            "height": 0,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    onPress={[Function]}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 14,
+        },
+        Array [
+          Object {
+            "color": "#4b4c4d",
+          },
+          Array [
+            Object {
+              "color": "#f25c74",
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;

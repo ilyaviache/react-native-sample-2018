@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Roboto /> dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "fontFamily": "Roboto Condensed",
+        "fontWeight": "400",
+      },
+      undefined,
+    ]
+  }
+>
+  Test
+</Text>
+`;
+
+exports[`<Roboto /> light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "fontFamily": "Roboto Condensed",
+        "fontWeight": "400",
+      },
+      undefined,
+    ]
+  }
+>
+  Test
+</Text>
+`;

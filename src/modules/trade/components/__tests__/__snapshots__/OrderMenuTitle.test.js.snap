@@ -1,0 +1,683 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<OrderMenuTitle /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "center",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "color": "#fcfcfc",
+          },
+          Array [
+            Object {
+              "marginRight": 5,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "fontSize": 17,
+            "fontWeight": "bold",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    ZRX
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "color": "#fcfcfc",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+              "marginBottom": 0,
+              "marginLeft": 5,
+              "marginRight": 5,
+              "marginTop": 0,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "fontSize": 17,
+            "fontWeight": "bold",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    WETH
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 9,
+        },
+        Array [
+          Object {
+            "color": "#fcfcfc",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+              "marginBottom": 0,
+              "marginLeft": 5,
+              "marginRight": 5,
+              "marginTop": 0,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;
+
+exports[`<OrderMenuTitle /> favorite: true dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "center",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "color": "#fcfcfc",
+          },
+          Array [
+            Object {
+              "marginRight": 5,
+            },
+            Array [
+              Object {
+                "color": "#faa632",
+              },
+              undefined,
+            ],
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "fontSize": 17,
+            "fontWeight": "bold",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    ZRX
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "color": "#fcfcfc",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+              "marginBottom": 0,
+              "marginLeft": 5,
+              "marginRight": 5,
+              "marginTop": 0,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "fontSize": 17,
+            "fontWeight": "bold",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    WETH
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 9,
+        },
+        Array [
+          Object {
+            "color": "#fcfcfc",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+              "marginBottom": 0,
+              "marginLeft": 5,
+              "marginRight": 5,
+              "marginTop": 0,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;
+
+exports[`<OrderMenuTitle /> favorite: true light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "center",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "color": "#4b4c4d",
+          },
+          Array [
+            Object {
+              "marginRight": 5,
+            },
+            Array [
+              Object {
+                "color": "#faa632",
+              },
+              undefined,
+            ],
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "fontSize": 17,
+            "fontWeight": "bold",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    ZRX
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "color": "#4b4c4d",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+              "marginBottom": 0,
+              "marginLeft": 5,
+              "marginRight": 5,
+              "marginTop": 0,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "fontSize": 17,
+            "fontWeight": "bold",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    WETH
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 9,
+        },
+        Array [
+          Object {
+            "color": "#4b4c4d",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+              "marginBottom": 0,
+              "marginLeft": 5,
+              "marginRight": 5,
+              "marginTop": 0,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;
+
+exports[`<OrderMenuTitle /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "display": "flex",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "center",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "color": "#4b4c4d",
+          },
+          Array [
+            Object {
+              "marginRight": 5,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "fontSize": 17,
+            "fontWeight": "bold",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    ZRX
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "color": "#4b4c4d",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+              "marginBottom": 0,
+              "marginLeft": 5,
+              "marginRight": 5,
+              "marginTop": 0,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "fontSize": 17,
+            "fontWeight": "bold",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    WETH
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 9,
+        },
+        Array [
+          Object {
+            "color": "#4b4c4d",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+              "marginBottom": 0,
+              "marginLeft": 5,
+              "marginRight": 5,
+              "marginTop": 0,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;

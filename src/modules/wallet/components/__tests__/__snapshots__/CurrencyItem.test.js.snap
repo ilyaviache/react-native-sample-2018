@@ -1,0 +1,245 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CurrencyItem /> dark: renders correctly 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  collapsable={undefined}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
+  isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "flexBasis": 0,
+      "flexDirection": "row",
+      "flexGrow": 1,
+      "flexShrink": 1,
+      "justifyContent": "space-between",
+      "opacity": 1,
+    }
+  }
+  testID={undefined}
+  tvParallaxProperties={undefined}
+>
+  <View
+    flex={1}
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "marginLeft": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#faa632",
+              "fontSize": 12,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      ETH
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#fcfcfc",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "fontSize": 18,
+              "fontWeight": "bold",
+              "lineHeight": 20,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      5.4444
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#c1c1c1",
+              "fontSize": 11,
+              "lineHeight": 12,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      ¥ 32,400.00
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<CurrencyItem /> light: renders correctly 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  collapsable={undefined}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
+  isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "flexBasis": 0,
+      "flexDirection": "row",
+      "flexGrow": 1,
+      "flexShrink": 1,
+      "justifyContent": "space-between",
+      "opacity": 1,
+    }
+  }
+  testID={undefined}
+  tvParallaxProperties={undefined}
+>
+  <View
+    flex={1}
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "marginLeft": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#faa632",
+              "fontSize": 12,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      ETH
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "fontSize": 18,
+              "fontWeight": "bold",
+              "lineHeight": 20,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      5.4444
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#3d3b3b",
+              "fontSize": 11,
+              "lineHeight": 12,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      ¥ 32,400.00
+    </Text>
+  </View>
+</View>
+`;

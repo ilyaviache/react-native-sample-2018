@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CurrencyForm /> renders correctly 1`] = `
+<BaseForm
+  initialValues={
+    Object {
+      "currency": "",
+    }
+  }
+  onSubmit={[Function]}
+  render={[Function]}
+/>
+`;

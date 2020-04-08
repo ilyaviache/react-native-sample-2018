@@ -1,0 +1,1459 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<UnitsTextfield /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#eeeeee"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingRight": 50,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#c1c1c1",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    size="default"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "letterSpacing": 0.4,
+            "position": "absolute",
+            "right": 0,
+            "top": 8,
+          },
+          undefined,
+        ],
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`<UnitsTextfield /> error: true dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#eeeeee"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingRight": 50,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#c1c1c1",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    size="default"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "letterSpacing": 0.4,
+            "position": "absolute",
+            "right": 0,
+            "top": 8,
+          },
+          undefined,
+        ],
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`<UnitsTextfield /> error: true light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#3d3b3b"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingRight": 50,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#4b4c4d",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    size="default"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "letterSpacing": 0.4,
+            "position": "absolute",
+            "right": 0,
+            "top": 8,
+          },
+          undefined,
+        ],
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`<UnitsTextfield /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#3d3b3b"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingRight": 50,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#4b4c4d",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    size="default"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "letterSpacing": 0.4,
+            "position": "absolute",
+            "right": 0,
+            "top": 8,
+          },
+          undefined,
+        ],
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`<UnitsTextfield /> size: small dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#eeeeee"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 12,
+            "fontWeight": "300",
+            "paddingBottom": 2,
+            "paddingRight": 50,
+            "paddingTop": 2,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#c1c1c1",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    size="small"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "letterSpacing": 0.4,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`<UnitsTextfield /> size: small light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#3d3b3b"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 12,
+            "fontWeight": "300",
+            "paddingBottom": 2,
+            "paddingRight": 50,
+            "paddingTop": 2,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#4b4c4d",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    size="small"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "letterSpacing": 0.4,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`<UnitsTextfield /> type: number dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      keyboardType="numeric"
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#eeeeee"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingRight": 50,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#c1c1c1",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    size="default"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "letterSpacing": 0.4,
+            "position": "absolute",
+            "right": 0,
+            "top": 8,
+          },
+          undefined,
+        ],
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`<UnitsTextfield /> type: number light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      keyboardType="numeric"
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#3d3b3b"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingRight": 50,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#4b4c4d",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    size="default"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "letterSpacing": 0.4,
+            "position": "absolute",
+            "right": 0,
+            "top": 8,
+          },
+          undefined,
+        ],
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`<UnitsTextfield /> type: password dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={true}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#eeeeee"
+      secureTextEntry={true}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingRight": 50,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#c1c1c1",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    size="default"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "letterSpacing": 0.4,
+            "position": "absolute",
+            "right": 0,
+            "top": 8,
+          },
+          undefined,
+        ],
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`<UnitsTextfield /> type: password light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={true}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#3d3b3b"
+      secureTextEntry={true}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingRight": 50,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#4b4c4d",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    size="default"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "letterSpacing": 0.4,
+            "position": "absolute",
+            "right": 0,
+            "top": 8,
+          },
+          undefined,
+        ],
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`<UnitsTextfield /> units: ETH dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#eeeeee"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingRight": 50,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#c1c1c1",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    size="default"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "letterSpacing": 0.4,
+            "position": "absolute",
+            "right": 0,
+            "top": 8,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    ETH
+  </Text>
+</View>
+`;
+
+exports[`<UnitsTextfield /> units: ETH light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#3d3b3b"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingRight": 50,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#4b4c4d",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    size="default"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#faa632",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 14,
+            "fontWeight": "400",
+            "letterSpacing": 0.4,
+            "position": "absolute",
+            "right": 0,
+            "top": 8,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    ETH
+  </Text>
+</View>
+`;

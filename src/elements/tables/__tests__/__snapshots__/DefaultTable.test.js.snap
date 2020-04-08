@@ -1,0 +1,2625 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DefaultTable /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Array [
+        Object {
+          "backgroundColor": "#000000",
+          "width": "auto",
+        },
+        undefined,
+      ],
+      Object {
+        "borderBottomWidth": 0,
+        "borderColor": "#000",
+        "borderLeftWidth": 0,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#000000",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          Array [
+            Object {
+              "backgroundColor": "#000000",
+              "paddingBottom": 0,
+              "paddingTop": 0,
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 13,
+              "fontWeight": "500",
+              "padding": 6,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Head1
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 13,
+              "fontWeight": "500",
+              "padding": 6,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Head2
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 13,
+              "fontWeight": "500",
+              "padding": 6,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Head3
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#000000",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          Array [
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#282828",
+              "borderTopWidth": 1,
+              "display": "flex",
+              "height": 5,
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#000000",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data11
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data12
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data13
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#000000",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data21
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data22
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data23
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#000000",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data31
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data32
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data33
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<DefaultTable /> head: empty dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Array [
+        Object {
+          "backgroundColor": "#000000",
+          "width": "auto",
+        },
+        undefined,
+      ],
+      Object {
+        "borderBottomWidth": 0,
+        "borderColor": "#000",
+        "borderLeftWidth": 0,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#000000",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          Array [
+            Object {
+              "backgroundColor": "#000000",
+              "paddingBottom": 0,
+              "paddingTop": 0,
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#000000",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          Array [
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#282828",
+              "borderTopWidth": 1,
+              "display": "none",
+              "height": 5,
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#000000",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data11
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data12
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data13
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#000000",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data21
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data22
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data23
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#000000",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data31
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data32
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data33
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<DefaultTable /> head: empty light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Array [
+        Object {
+          "backgroundColor": "#fefaec",
+          "width": "auto",
+        },
+        undefined,
+      ],
+      Object {
+        "borderBottomWidth": 0,
+        "borderColor": "#000",
+        "borderLeftWidth": 0,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#fefaec",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          Array [
+            Object {
+              "backgroundColor": "#fefaec",
+              "paddingBottom": 0,
+              "paddingTop": 0,
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#fefaec",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          Array [
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#5d5959",
+              "borderTopWidth": 1,
+              "display": "none",
+              "height": 5,
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#fefaec",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data11
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data12
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data13
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#fefaec",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data21
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data22
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data23
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#fefaec",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data31
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data32
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data33
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<DefaultTable /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Array [
+        Object {
+          "backgroundColor": "#fefaec",
+          "width": "auto",
+        },
+        undefined,
+      ],
+      Object {
+        "borderBottomWidth": 0,
+        "borderColor": "#000",
+        "borderLeftWidth": 0,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#fefaec",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          Array [
+            Object {
+              "backgroundColor": "#fefaec",
+              "paddingBottom": 0,
+              "paddingTop": 0,
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 13,
+              "fontWeight": "500",
+              "padding": 6,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Head1
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 13,
+              "fontWeight": "500",
+              "padding": 6,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Head2
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 13,
+              "fontWeight": "500",
+              "padding": 6,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Head3
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#fefaec",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          Array [
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#5d5959",
+              "borderTopWidth": 1,
+              "display": "flex",
+              "height": 5,
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#fefaec",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data11
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data12
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data13
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#fefaec",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data21
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data22
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data23
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        undefined,
+        0,
+        Object {
+          "flexDirection": "row",
+          "overflow": "hidden",
+        },
+        Array [
+          Object {
+            "backgroundColor": "#fefaec",
+            "paddingBottom": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data31
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data32
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "borderColor": "#000",
+            "borderRightWidth": 0,
+            "borderTopWidth": 0,
+          },
+          Object {
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+          Object {
+            "flex": 1,
+          },
+          false,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        borderStyle={
+          Object {
+            "borderWidth": 0,
+          }
+        }
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Roboto Condensed",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "padding": 9,
+              "textAlign": "center",
+            },
+            Object {
+              "backgroundColor": "transparent",
+            },
+          ]
+        }
+      >
+        Data33
+      </Text>
+    </View>
+  </View>
+</View>
+`;

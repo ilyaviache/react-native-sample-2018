@@ -1,0 +1,110 @@
+{
+  "author" : "Iconizer",
+  "version" : "1.0",
+  "images" : [
+    {
+      "orientation" : "portrait",
+      "filename" : "iPhone-Portrait-2436h@3x.png",
+      "idiom" : "iphone",
+      "subtype" : "2436h",
+      "scale" : "3x",
+      "expected-height" : "2436",
+      "minimum-system-version" : "11.0",
+      "expected-width" : "1125",
+      "extent" : "full-screen"
+    },
+    {
+      "orientation" : "portrait",
+      "filename" : "iPhone-736h@3x.png",
+      "idiom" : "iphone",
+      "subtype" : "736h",
+      "scale" : "3x",
+      "expected-height" : "2208",
+      "minimum-system-version" : "8.0",
+      "expected-width" : "1242",
+      "extent" : "full-screen"
+    },
+    {
+      "orientation" : "portrait",
+      "filename" : "iPhone-667h@2x.png",
+      "idiom" : "iphone",
+      "subtype" : "667h",
+      "scale" : "2x",
+      "expected-height" : "1334",
+      "minimum-system-version" : "8.0",
+      "expected-width" : "750",
+      "extent" : "full-screen"
+    },
+    {
+      "orientation" : "portrait",
+      "filename" : "iPhone-Default_v7@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "expected-height" : "960",
+      "minimum-system-version" : "7.0",
+      "expected-width" : "640",
+      "extent" : "full-screen"
+    },
+    {
+      "orientation" : "portrait",
+      "filename" : "iPhone-568h_v7@2x.png",
+      "idiom" : "iphone",
+      "subtype" : "retina4",
+      "scale" : "2x",
+      "expected-height" : "1136",
+      "minimum-system-version" : "7.0",
+      "expected-width" : "640",
+      "extent" : "full-screen"
+    },
+    {
+      "orientation" : "portrait",
+      "filename" : "iPhone-Default.png",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "expected-height" : "480",
+      "expected-width" : "320",
+      "extent" : "full-screen"
+    },
+    {
+      "orientation" : "portrait",
+      "filename" : "iPhone-Default@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "expected-height" : "960",
+      "expected-width" : "640",
+      "extent" : "full-screen"
+    },
+    {
+      "orientation" : "portrait",
+      "filename" : "iPhone-568h@2x.png",
+      "idiom" : "iphone",
+      "subtype" : "retina4",
+      "scale" : "2x",
+      "expected-height" : "1136",
+      "expected-width" : "640",
+      "extent" : "full-screen"
+    },
+    {
+      "orientation" : "landscape",
+      "filename" : "iPhone-Landscape-2436h@3x.png",
+      "idiom" : "iphone",
+      "subtype" : "2436h",
+      "scale" : "3x",
+      "expected-height" : "1125",
+      "minimum-system-version" : "11.0",
+      "expected-width" : "2436",
+      "extent" : "full-screen"
+    },
+    {
+      "orientation" : "landscape",
+      "filename" : "iPhone-Landscape-736h@3x.png",
+      "idiom" : "iphone",
+      "subtype" : "736h",
+      "scale" : "3x",
+      "expected-height" : "1242",
+      "minimum-system-version" : "8.0",
+      "expected-width" : "2208",
+      "extent" : "full-screen"
+    }
+  ]
+}

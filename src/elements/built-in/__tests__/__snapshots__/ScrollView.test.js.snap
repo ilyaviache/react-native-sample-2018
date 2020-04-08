@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ScrollView /> dark: renders correctly 1`] = `
+<RCTScrollView
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View />
+</RCTScrollView>
+`;
+
+exports[`<ScrollView /> light: renders correctly 1`] = `
+<RCTScrollView
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View />
+</RCTScrollView>
+`;
+
+exports[`<ScrollView /> renders component when passed in 1`] = `
+<Styled(ScrollView)>
+  <Component />
+</Styled(ScrollView)>
+`;
+
+exports[`<ScrollView /> renders text when passed in 1`] = `
+<Styled(ScrollView)>
+  Test
+</Styled(ScrollView)>
+`;

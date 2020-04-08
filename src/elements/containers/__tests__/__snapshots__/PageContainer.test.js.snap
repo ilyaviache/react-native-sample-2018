@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PageContainer /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "backgroundColor": "#807c7c",
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<PageContainer /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "backgroundColor": "#eae8e0",
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<PageContainer /> renders component when passed in 1`] = `
+<Styled(View)>
+  <Component />
+</Styled(View)>
+`;
+
+exports[`<PageContainer /> renders text when passed in 1`] = `
+<Styled(View)>
+  Test
+</Styled(View)>
+`;

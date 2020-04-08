@@ -1,0 +1,1741 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Icon /> dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon arrow-up is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon arrow-up is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon back is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon back is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon backup is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon backup is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon cancel is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon cancel is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon coin-dai is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon coin-dai is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon coin-eth is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon coin-eth is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon coin-zrx is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon coin-zrx is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon contact is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon contact is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon cross-arrows is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon cross-arrows is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon edit is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon edit is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon full-star is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon full-star is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon gas-station is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon gas-station is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon gas-station-eth is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon gas-station-eth is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon info is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon info is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon key is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon key is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon menu-open is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon menu-open is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon outline-star is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon outline-star is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon password is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon password is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon password-with-asterics is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon password-with-asterics is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon right-arrow is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon right-arrow is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon search is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon search is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon selection-arrow is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon selection-arrow is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon settings is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon settings is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon trade is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon trade is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon trash is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon trash is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon wallet is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon wallet is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon warning is presented and renders correctly dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> icon warning is presented and renders correctly light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> name dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> name light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 25,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> size dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 18,
+      },
+      Array [
+        Object {
+          "color": "#fcfcfc",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;
+
+exports[`<Icon /> size light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={false}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": null,
+        "fontSize": 18,
+      },
+      Array [
+        Object {
+          "color": "#4b4c4d",
+        },
+        undefined,
+      ],
+      Object {
+        "fontFamily": "icomoon",
+        "fontStyle": "normal",
+        "fontWeight": "normal",
+      },
+    ]
+  }
+>
+  
+</Text>
+`;

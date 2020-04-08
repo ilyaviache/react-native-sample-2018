@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListMenu /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<ListMenu /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<ListMenu /> renders component when passed in 1`] = `
+<Styled(View)>
+  <Component />
+</Styled(View)>
+`;
+
+exports[`<ListMenu /> renders text when passed in 1`] = `
+<Styled(View)>
+  Test
+</Styled(View)>
+`;

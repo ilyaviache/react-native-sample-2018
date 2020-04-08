@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<WarningLabel /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "flexWrap": "wrap",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 25,
+        },
+        Array [
+          Object {
+            "color": "#fcfcfc",
+          },
+          Array [
+            Object {
+              "color": "#faa632",
+              "marginRight": 15,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "flexWrap": "wrap",
+            "fontFamily": "Open Sans",
+            "fontSize": 11,
+            "fontWeight": "600",
+            "marginBottom": 5,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 5,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    Test
+  </Text>
+</View>
+`;
+
+exports[`<WarningLabel /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "flexWrap": "wrap",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 25,
+        },
+        Array [
+          Object {
+            "color": "#4b4c4d",
+          },
+          Array [
+            Object {
+              "color": "#faa632",
+              "marginRight": 15,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "flexBasis": 0,
+            "flexGrow": 1,
+            "flexShrink": 1,
+            "flexWrap": "wrap",
+            "fontFamily": "Open Sans",
+            "fontSize": 11,
+            "fontWeight": "600",
+            "marginBottom": 5,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 5,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    Test
+  </Text>
+</View>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LanguageForm /> renders correctly 1`] = `
+<BaseForm
+  initialValues={
+    Object {
+      "locale": "",
+    }
+  }
+  onSubmit={[Function]}
+  render={[Function]}
+/>
+`;

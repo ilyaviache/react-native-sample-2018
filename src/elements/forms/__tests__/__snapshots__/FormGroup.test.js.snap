@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FormGroup /> dark: renders correctly 1`] = `
+<View
+  bottom={undefined}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "marginBottom": 0,
+          "marginTop": 15,
+        },
+        undefined,
+      ],
+    ]
+  }
+  top={undefined}
+/>
+`;
+
+exports[`<FormGroup /> light: renders correctly 1`] = `
+<View
+  bottom={undefined}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "marginBottom": 0,
+          "marginTop": 15,
+        },
+        undefined,
+      ],
+    ]
+  }
+  top={undefined}
+/>
+`;
+
+exports[`<FormGroup /> renders component when passed in 1`] = `
+<Styled(View)>
+  <Component />
+</Styled(View)>
+`;
+
+exports[`<FormGroup /> renders text when passed in 1`] = `
+<Styled(View)>
+  Test
+</Styled(View)>
+`;

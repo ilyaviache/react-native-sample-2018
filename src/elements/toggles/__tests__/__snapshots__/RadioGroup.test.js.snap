@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RadioGroup /> renders correctly 1`] = `
+<Styled(Component)>
+  <View>
+    <WithTheme(Radio)
+      group={
+        Group {
+          "buttons": Array [],
+          "onAdd": undefined,
+          "onRemove": undefined,
+        }
+      }
+    >
+      CNY
+    </WithTheme(Radio)>
+    <WithTheme(Radio)
+      group={
+        Group {
+          "buttons": Array [],
+          "onAdd": undefined,
+          "onRemove": undefined,
+        }
+      }
+    >
+      USD
+    </WithTheme(Radio)>
+    <WithTheme(Radio)
+      group={
+        Group {
+          "buttons": Array [],
+          "onAdd": undefined,
+          "onRemove": undefined,
+        }
+      }
+    >
+      ETH
+    </WithTheme(Radio)>
+  </View>
+</Styled(Component)>
+`;

@@ -1,0 +1,219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DeleteButton /> dark: renders correctly 1`] = `
+<BVLinearGradient
+  colors={
+    Array [
+      4292412998,
+      4293411125,
+    ]
+  }
+  endPoint={undefined}
+  locations={null}
+  startPoint={undefined}
+  style={
+    Array [
+      Object {
+        "display": "flex",
+        "height": "100%",
+        "width": "100%",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "height": "100%",
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 60,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 19,
+          },
+          Array [
+            Object {
+              "color": "#fcfcfc",
+            },
+            Array [
+              Object {
+                "color": "#fff",
+              },
+              undefined,
+            ],
+          ],
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "fontSize": 13,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      Delete
+    </Text>
+  </View>
+</BVLinearGradient>
+`;
+
+exports[`<DeleteButton /> light: renders correctly 1`] = `
+<BVLinearGradient
+  colors={
+    Array [
+      4292412998,
+      4293411125,
+    ]
+  }
+  endPoint={undefined}
+  locations={null}
+  startPoint={undefined}
+  style={
+    Array [
+      Object {
+        "display": "flex",
+        "height": "100%",
+        "width": "100%",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "height": "100%",
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 60,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 19,
+          },
+          Array [
+            Object {
+              "color": "#4b4c4d",
+            },
+            Array [
+              Object {
+                "color": "#fff",
+              },
+              undefined,
+            ],
+          ],
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "fontSize": 13,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      Delete
+    </Text>
+  </View>
+</BVLinearGradient>
+`;

@@ -1,0 +1,141 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Textarea /> dark: renders correctly 1`] = `
+<TextInput
+  allowFontScaling={true}
+  error={false}
+  height={120}
+  multiline={true}
+  name="name"
+  numberOfLines={10}
+  onBlur={[Function]}
+  onChange={[MockFunction]}
+  onChangeText={[Function]}
+  placeholder={undefined}
+  placeholderTextColor="#c1c1c1"
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#282828",
+        "borderColor": "#282828",
+        "borderWidth": 1,
+        "color": "#fcfcfc",
+        "fontSize": 14,
+        "fontStyle": "italic",
+        "minHeight": 120,
+        "paddingBottom": 8,
+        "paddingLeft": 10,
+        "paddingRight": 10,
+        "paddingTop": 8,
+      },
+      undefined,
+    ]
+  }
+  value="value"
+/>
+`;
+
+exports[`<Textarea /> light: renders correctly 1`] = `
+<TextInput
+  allowFontScaling={true}
+  error={false}
+  height={120}
+  multiline={true}
+  name="name"
+  numberOfLines={10}
+  onBlur={[Function]}
+  onChange={[MockFunction]}
+  onChangeText={[Function]}
+  placeholder={undefined}
+  placeholderTextColor="#c1c1c1"
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#5d5959",
+        "borderColor": "#5d5959",
+        "borderWidth": 1,
+        "color": "#fcfcfc",
+        "fontSize": 14,
+        "fontStyle": "italic",
+        "minHeight": 120,
+        "paddingBottom": 8,
+        "paddingLeft": 10,
+        "paddingRight": 10,
+        "paddingTop": 8,
+      },
+      undefined,
+    ]
+  }
+  value="value"
+/>
+`;
+
+exports[`<Textarea /> numberOfLines dark: renders correctly 1`] = `
+<TextInput
+  allowFontScaling={true}
+  error={false}
+  height={120}
+  multiline={true}
+  name="name"
+  numberOfLines={15}
+  onBlur={[Function]}
+  onChange={[MockFunction]}
+  onChangeText={[Function]}
+  placeholder={undefined}
+  placeholderTextColor="#c1c1c1"
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#282828",
+        "borderColor": "#282828",
+        "borderWidth": 1,
+        "color": "#fcfcfc",
+        "fontSize": 14,
+        "fontStyle": "italic",
+        "minHeight": 120,
+        "paddingBottom": 8,
+        "paddingLeft": 10,
+        "paddingRight": 10,
+        "paddingTop": 8,
+      },
+      undefined,
+    ]
+  }
+  value="value"
+/>
+`;
+
+exports[`<Textarea /> numberOfLines light: renders correctly 1`] = `
+<TextInput
+  allowFontScaling={true}
+  error={false}
+  height={120}
+  multiline={true}
+  name="name"
+  numberOfLines={15}
+  onBlur={[Function]}
+  onChange={[MockFunction]}
+  onChangeText={[Function]}
+  placeholder={undefined}
+  placeholderTextColor="#c1c1c1"
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#5d5959",
+        "borderColor": "#5d5959",
+        "borderWidth": 1,
+        "color": "#fcfcfc",
+        "fontSize": 14,
+        "fontStyle": "italic",
+        "minHeight": 120,
+        "paddingBottom": 8,
+        "paddingLeft": 10,
+        "paddingRight": 10,
+        "paddingTop": 8,
+      },
+      undefined,
+    ]
+  }
+  value="value"
+/>
+`;

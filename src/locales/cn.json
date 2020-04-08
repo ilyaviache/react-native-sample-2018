@@ -1,0 +1,190 @@
+{
+  "route": {
+    "SettingsHome": "CN_Settings",
+    "SettingsAddToken": "CN_Add Token",
+    "SettingsManualToken": "CN_Add Token",
+    "SettingsCurrency": "CN_Currency Unit",
+    "SettingsPassword": "CN_Change Password",
+    "SettingsLanguage": "CN_Language",
+    "SettingsNightmode": "CN_Night Mode",
+    "SettingsFAQ": "CN_FAQ",
+    "SettingsPrivacy": "CN_Privacy Policy",
+    "SettingsTerms": "CN_Terms of Use",
+
+    "WalletPages": "Wallet Pages",
+    "WalletHome": "CN_Wallet",
+    "WalletCreatePassword": "CN_Create Wallet",
+    "WalletResetPassword": "CN_Reset Password",
+    "WalletSeedWord": "CN_Create Wallet",
+    "WalletConfirmSeedWord": "CN_Create Wallet",
+    "WalletImport": "CN_Import Wallet",
+    "WalletTradeHistory": "CN_Trade History",
+    "WalletAccountHome": "CN_Wallet",
+
+    "TradeHome": "CN_Trade",
+    "TradePages": "Pages",
+    "TradeBuy": "CN_Buy",
+    "TradeSell": "CN_Sell",
+    "TradeOrder": "CN_Order",
+
+    "Contact": "Contact us"
+  },
+  "inputs": {
+    "confirm": "CN_confirm",
+    "submit": "Submit",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "buy": "Buy",
+    "sell": "Sell",
+    "errors": {
+      "required": "This field is required",
+      "match": "The value doesn't match",
+      "email": "Email is not correct"
+    },
+    "amount": {
+      "placeholder": "Type your amount here.."
+    },
+    "current_password": {
+      "placeholder": "CN_Type your current password.."
+    },
+    "password": {
+      "placeholder": "CN_Type your password.."
+    },
+    "password_new": {
+      "placeholder": "CN_Type the new password.."
+    },
+    "password_repeat": {
+      "placeholder": "CN_Repeat the new password.."
+    },
+    "token_name": {
+      "placeholder": "CN_Type the Token name here.."
+    },
+    "token_address": {
+      "placeholder": "CN_Type the address here.."
+    },
+    "token_digit": {
+      "placeholder": "CN_Type the decimal here.."
+    },
+    "search": {
+      "placeholder": "CN_Type your search..."
+     },
+     "email": {
+      "placeholder": "Type your email address here..."
+     },
+     "title": {
+      "placeholder": "Title"
+     },
+     "body": {
+       "placeholder": "Describe your question"
+     },
+    "terms": {
+      "text": "CN_I agree on",
+      "link": "CN_Terms of Service and Privacy Policy"
+    },
+    "wrap": "WRAP",
+    "unwrap": "UNWRAP"
+  },
+  "menu": {
+    "trade": "CN_TRADE",
+    "wallet": "CN_WALLET",
+    "settings": "CN_SETTINGS",
+    "notifications": "CN_NOTIFICATIONS",
+    "contact": "CN_CONTACT US"
+  },
+  "notifications": {
+    "warning": "WARNING",
+    "reset_password": "You're about to reset your password. All your old wallet information will be lost",
+    "password_incorrect": "CN_Password is incorrect"
+  },
+  "trade": {
+    "vol": "CN_Vol.",
+    "high": "CN_High",
+    "low": "CN_Low",
+    "contract": "СТ_Contract",
+    "tabs": {
+      "fav": "CN_My Favorite",
+      "eth": "CN_ETH",
+      "dai": "CN_DAI"
+    },
+    "orderTabs": {
+      "book": "CN_Order Book",
+      "history": "CN_Trade History",
+      "orders": "CN_Orders"
+    },
+    "buy": "CN_Buy",
+    "sell": "CN_Sell",
+    "delete": "CN_Delete"
+  },
+  "wallet": {
+    "transaction_fee": "Transaction Fee",
+    "gas_price": "Gas Price",
+    "gas_limit": "Gas Limit",
+    "price": "Price",
+    "amount": "Amount",
+    "areYouSure": "CN_Are you sure you want to make",
+    "makePrivate": "CN_primary?",
+    "max": "Max",
+    "all": "All",
+    "fee": "Fee",
+    "primary": "Primary Account",
+    "make_primary": "Make Primary",
+    "reset_password_aware": "You can reset your password if you forget it. \nPlease be aware that reseting your password means that all your old wallet information will be lost",
+    "seed": {
+      "header": "Word Seed",
+      "label": "Your word seed is a private key that has not been secured by encryption. You are urged to write this recovery seed down somewhere safe and to never post it online."
+    },
+    "import": {
+      "header": "Import Private Key",
+      "button": "Import Wallet"
+    },
+    "accountHeader": {
+      "total": "Total Holding",
+      "backup": "Backup"
+    },
+    "confirm_seed": {
+      "header": "Word Seed",
+      "label": "Please type it again to confirm you back it up."
+    }
+  },
+  "settings": {
+    "language": {
+      "header": "CN_Choose your language"
+    },
+    "currency": {
+      "header": "CN_Choose your currency"
+    },
+    "add_token": {
+      "header": "CN_Token Name"
+    },
+    "manual_token": {
+      "header": "CN_Sorry, can't find the corresponging token.\nPlease fill out the following information to create a new one."
+    },
+    "reset_password": {
+      "label": "Attention. Reset wallet means you’ll lose all the information in the wallet."
+    },
+    "terms": {
+      "header": "TokenJar币行服务条款",
+      "text": [
+        "请仔细阅读这些服务条款（以下简称为“本条款”）。通过点击“创建帐户”按钮或通过访问或使用本服务，您同意遵守本条款及所有附加条款。如果您不同意受本条款的约束，请勿访问或使用本服务。",
+        "TokenJar币行保留随时更改或修改本条款中所含内容的权利，包括但不限于本网站的任何政策或准则。我们会将修改后的条款发布到本网站，并将“最后更新”日期列在本条款顶部，或通过电子邮件发送给用户提供的注册邮箱，或以TokenJar币行确定的任何其他方式自行决定。任何更改会在发布网站更新后或声明更改后立即生效。更改将持续生效。您放弃接收有关此类更改的特定通知的权利。继续使用本网站表示您接受此类更改。如果您不同意本条款，请立即停止使用本网站。我们希望您经常回顾本条款，以确保您了解适用于您访问和使用本服务的条款和条件。如果您在使用本网站中有任何疑问，请联系service@tokenjar.io。"
+      ]
+    },
+    "faq": {
+      "text": [
+        "以比特币为代表的数字资产自 2009年诞生以来，作为一种互联网技术创新实践在全球范围高速发展。目前比特币等数字资产在全球范围内有几千万用户，遍布上百个国家。区块链技术源自比特币，比特币是区块链目前最大规模的应用实践。很多世界名流把比特币和互联网的发明相提并论，认为比特币及其背 后的区块链是“金融的互联网”，有可能从底层重构金融体系 。",
+        "随着比特币和区块链在全 球范围的热度持续攀升，众多世界领先的风险投资公司和最 优秀的创业者涌入这个行业，基于比特币和区块链的经济已经初步形成。从全球范围看，谷哥、高盛、软银、纽交所等世界前沿企业已经投资了多家该领域的创业公司，总投资金额高达数十亿美元。可以预见，未来 5-10 年内银行、证券、保险、审计、公证等领域都将出现比特币和区块链的身影，比特币和区块链经济的市场规模可能达到数千亿美元。",
+        "从世界范围来看，目前主 流业界对比特币主要有 5 种观点，共识正在逐步形成。",
+        "第一， 比特币是一种虚拟商品，有一定的投资属性;",
+        "第二，比特币 是一种点对点支付手段，未来有挑战 Visa 垄断地位的可能性;",
+        "第三，比特币区块链作为一种底层区块链，为其他的公 有区块链提供共识解决方案，比特币本身是使用这个底层区 块链的手续费，比特币区块链未来可能成为其他区块链应用 的基础设施;",
+        "第四，比特币是一种互联网上的虚拟货币，拥 有一定的货币属性，在特定的互联网社区里有一定的支付属 性;",
+        "第五，比特币是一种类似黄金的储备资产，因其标准化、 可拆分、可在线传输等特点，在支付效率、保存成本等方面 有巨大优势，未来有可能成为“数字黄金”，并且是在价值互联网时代可能取代黄金的一种全球性资产。"
+      ]
+    },
+    "privacy": {
+      "text": [
+        "TokenJar币行收集，处理和存储的个人数据，是通过您使用我们的服务所取得的，或者已经获得了您的同意。这些个人数据可能包括联系方式、您提供的身份信息的副本或来源于可获得的公开访问数据库、您的政府部门颁发的身份证号码，或与您的设备或互联网服务相关的任何信息（如IP地址和MAC号码）。 TokenJar币行使用个人数据与您沟通，并管理、履行、改进以及为您制定个性化服务。TokenJar币行还可以从我们收集的任何个人数据中生成通用数据，并将其用于我们自己的目的。我们还可以使用这些数据与您就TokenJar币行或其合作伙伴提供的其他产品或服务进行沟通。除非您同意并在下面列出的详细情况下，否则我们不会与第三方（与TokenJar币行的服务相关的合作伙伴除外）分享您的个人数据。"
+      ]
+    }
+  }
+}

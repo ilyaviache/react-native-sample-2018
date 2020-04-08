@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ScreenContainer /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "backgroundColor": "#000000",
+          "display": "flex",
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "position": "relative",
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<ScreenContainer /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "backgroundColor": "#fefaec",
+          "display": "flex",
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "position": "relative",
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<ScreenContainer /> renders component when passed in 1`] = `
+<Styled(View)>
+  <Component />
+</Styled(View)>
+`;
+
+exports[`<ScreenContainer /> renders text when passed in 1`] = `
+<Styled(View)>
+  Test
+</Styled(View)>
+`;

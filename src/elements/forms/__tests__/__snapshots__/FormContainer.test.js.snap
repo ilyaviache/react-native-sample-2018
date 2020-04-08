@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FormContainer /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "paddingBottom": 0,
+          "paddingLeft": 12,
+          "paddingRight": 12,
+          "paddingTop": 0,
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<FormContainer /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "paddingBottom": 0,
+          "paddingLeft": 12,
+          "paddingRight": 12,
+          "paddingTop": 0,
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<FormContainer /> renders component when passed in 1`] = `
+<Styled(View)>
+  <Component />
+</Styled(View)>
+`;
+
+exports[`<FormContainer /> renders text when passed in 1`] = `
+<Styled(View)>
+  Test
+</Styled(View)>
+`;

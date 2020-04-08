@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TransactionForm /> renders correctly 1`] = `
+<BaseForm
+  enableReinitialize={true}
+  initialValues={
+    Object {
+      "amount": "",
+      "gasLimit": "",
+      "gasPrice": "",
+      "price": "",
+    }
+  }
+  onSubmit={[Function]}
+  render={[Function]}
+  validationSchema={[Function]}
+/>
+`;

@@ -1,0 +1,629 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AccountHeader /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": "#282828",
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+          "paddingBottom": 10,
+          "paddingLeft": 12,
+          "paddingRight": 12,
+          "paddingTop": 10,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+          },
+          Array [
+            Object {
+              "marginBottom": 20,
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  >
+    <View
+      flex={3}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexBasis": 0,
+              "flexDirection": "column",
+              "flexGrow": 3,
+              "flexShrink": 1,
+              "justifyContent": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    />
+    <View
+      flex={5}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexBasis": 0,
+              "flexDirection": "column",
+              "flexGrow": 5,
+              "flexShrink": 1,
+              "justifyContent": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "marginBottom": 0,
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Account 1
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "marginBottom": 0,
+                },
+                Array [
+                  Object {
+                    "fontSize": 10,
+                    "marginTop": 6,
+                  },
+                  undefined,
+                ],
+              ],
+            ],
+          ]
+        }
+      >
+        0x9651fCa0...1B185e055E
+      </Text>
+    </View>
+    <View
+      flex={3}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexBasis": 0,
+              "flexDirection": "column",
+              "flexGrow": 3,
+              "flexShrink": 1,
+              "justifyContent": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    />
+  </View>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      flex={3}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexBasis": 0,
+              "flexDirection": "column",
+              "flexGrow": 3,
+              "flexShrink": 1,
+              "justifyContent": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "marginBottom": 0,
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Total Holding
+      </Text>
+    </View>
+    <View
+      flex={5}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexBasis": 0,
+              "flexDirection": "column",
+              "flexGrow": 5,
+              "flexShrink": 1,
+              "justifyContent": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    />
+    <View
+      flex={3}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexBasis": 0,
+              "flexDirection": "column",
+              "flexGrow": 3,
+              "flexShrink": 1,
+              "justifyContent": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "marginBottom": 0,
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        ¥ 648,000.00
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<AccountHeader /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": "#5d5959",
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+          "paddingBottom": 10,
+          "paddingLeft": 12,
+          "paddingRight": 12,
+          "paddingTop": 10,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+          },
+          Array [
+            Object {
+              "marginBottom": 20,
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  >
+    <View
+      flex={3}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexBasis": 0,
+              "flexDirection": "column",
+              "flexGrow": 3,
+              "flexShrink": 1,
+              "justifyContent": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    />
+    <View
+      flex={5}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexBasis": 0,
+              "flexDirection": "column",
+              "flexGrow": 5,
+              "flexShrink": 1,
+              "justifyContent": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "marginBottom": 0,
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Account 1
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "marginBottom": 0,
+                },
+                Array [
+                  Object {
+                    "fontSize": 10,
+                    "marginTop": 6,
+                  },
+                  undefined,
+                ],
+              ],
+            ],
+          ]
+        }
+      >
+        0x9651fCa0...1B185e055E
+      </Text>
+    </View>
+    <View
+      flex={3}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexBasis": 0,
+              "flexDirection": "column",
+              "flexGrow": 3,
+              "flexShrink": 1,
+              "justifyContent": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    />
+  </View>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      flex={3}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexBasis": 0,
+              "flexDirection": "column",
+              "flexGrow": 3,
+              "flexShrink": 1,
+              "justifyContent": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "marginBottom": 0,
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Total Holding
+      </Text>
+    </View>
+    <View
+      flex={5}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexBasis": 0,
+              "flexDirection": "column",
+              "flexGrow": 5,
+              "flexShrink": 1,
+              "justifyContent": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    />
+    <View
+      flex={3}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "alignItems": "center",
+              "flexBasis": 0,
+              "flexDirection": "column",
+              "flexGrow": 3,
+              "flexShrink": 1,
+              "justifyContent": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "marginBottom": 0,
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        ¥ 648,000.00
+      </Text>
+    </View>
+  </View>
+</View>
+`;

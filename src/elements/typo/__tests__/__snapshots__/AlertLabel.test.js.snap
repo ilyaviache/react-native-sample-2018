@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AlertLabel /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "flexDirection": "row",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 25,
+        },
+        Array [
+          Object {
+            "color": "#fcfcfc",
+          },
+          Array [
+            Object {
+              "marginRight": 6,
+              "marginTop": 8,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "fontFamily": "Lato",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "marginBottom": 5,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 5,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    Test
+  </Text>
+</View>
+`;
+
+exports[`<AlertLabel /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "flexDirection": "row",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 25,
+        },
+        Array [
+          Object {
+            "color": "#4b4c4d",
+          },
+          Array [
+            Object {
+              "marginRight": 6,
+              "marginTop": 8,
+            },
+            undefined,
+          ],
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "fontFamily": "Lato",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "marginBottom": 5,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 5,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    Test
+  </Text>
+</View>
+`;

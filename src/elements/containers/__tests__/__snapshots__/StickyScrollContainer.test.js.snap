@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StickyScrollContainer /> dark: renders correctly 1`] = `
+<RCTScrollView
+  contentContainerStyle={Object {}}
+  fullheight={false}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "position": "relative",
+        },
+        Array [
+          Object {
+            "paddingBottom": 40,
+          },
+          undefined,
+        ],
+      ],
+    ]
+  }
+>
+  <View />
+</RCTScrollView>
+`;
+
+exports[`<StickyScrollContainer /> light: renders correctly 1`] = `
+<RCTScrollView
+  contentContainerStyle={Object {}}
+  fullheight={false}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "position": "relative",
+        },
+        Array [
+          Object {
+            "paddingBottom": 40,
+          },
+          undefined,
+        ],
+      ],
+    ]
+  }
+>
+  <View />
+</RCTScrollView>
+`;
+
+exports[`<StickyScrollContainer /> renders component when passed in 1`] = `
+<Styled(ScrollContainer)>
+  <Component />
+</Styled(ScrollContainer)>
+`;
+
+exports[`<StickyScrollContainer /> renders text when passed in 1`] = `
+<Styled(ScrollContainer)>
+  Test
+</Styled(ScrollContainer)>
+`;

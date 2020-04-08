@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BottomTranslateContainer /> dark: renders correctly 1`] = `
+<View
+  active={undefined}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "bottom": 0,
+          "position": "absolute",
+          "transform": Array [
+            Object {
+              "translateY": 300,
+            },
+          ],
+          "width": "100%",
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<BottomTranslateContainer /> light: renders correctly 1`] = `
+<View
+  active={undefined}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "bottom": 0,
+          "position": "absolute",
+          "transform": Array [
+            Object {
+              "translateY": 300,
+            },
+          ],
+          "width": "100%",
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<BottomTranslateContainer /> renders component when passed in 1`] = `
+<Styled(View)>
+  <Component />
+</Styled(View)>
+`;
+
+exports[`<BottomTranslateContainer /> renders text when passed in 1`] = `
+<Styled(View)>
+  Test
+</Styled(View)>
+`;

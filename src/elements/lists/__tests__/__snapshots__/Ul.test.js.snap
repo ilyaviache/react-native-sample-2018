@@ -1,0 +1,189 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchInput /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "display": "flex",
+          "flexDirection": "column",
+          "paddingBottom": 0,
+          "paddingLeft": 15,
+          "paddingRight": 15,
+          "paddingTop": 0,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    border={true}
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "borderBottomColor": "#555555",
+            "borderBottomWidth": 1,
+            "display": "flex",
+            "flexDirection": "row",
+            "flexWrap": "wrap",
+            "paddingBottom": 6,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 6,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    1
+  </View>
+  <View
+    border={true}
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "borderBottomColor": "#555555",
+            "borderBottomWidth": 1,
+            "display": "flex",
+            "flexDirection": "row",
+            "flexWrap": "wrap",
+            "paddingBottom": 6,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 6,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    2
+  </View>
+  <View
+    border={true}
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "borderBottomColor": "#555555",
+            "borderBottomWidth": 1,
+            "display": "flex",
+            "flexDirection": "row",
+            "flexWrap": "wrap",
+            "paddingBottom": 6,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 6,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    3
+  </View>
+</View>
+`;
+
+exports[`<SearchInput /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "display": "flex",
+          "flexDirection": "column",
+          "paddingBottom": 0,
+          "paddingLeft": 15,
+          "paddingRight": 15,
+          "paddingTop": 0,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    border={true}
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "borderBottomColor": "#cac6bd",
+            "borderBottomWidth": 1,
+            "display": "flex",
+            "flexDirection": "row",
+            "flexWrap": "wrap",
+            "paddingBottom": 6,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 6,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    1
+  </View>
+  <View
+    border={true}
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "borderBottomColor": "#cac6bd",
+            "borderBottomWidth": 1,
+            "display": "flex",
+            "flexDirection": "row",
+            "flexWrap": "wrap",
+            "paddingBottom": 6,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 6,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    2
+  </View>
+  <View
+    border={true}
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "borderBottomColor": "#cac6bd",
+            "borderBottomWidth": 1,
+            "display": "flex",
+            "flexDirection": "row",
+            "flexWrap": "wrap",
+            "paddingBottom": 6,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 6,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    3
+  </View>
+</View>
+`;

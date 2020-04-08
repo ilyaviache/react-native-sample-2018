@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<A /> dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": "#fcfcfc",
+        "fontFamily": "Open Sans",
+      },
+      Array [
+        Object {
+          "color": "#faa632",
+          "fontFamily": "Open Sans",
+          "fontWeight": "400",
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<A /> light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": "#000000",
+        "fontFamily": "Open Sans",
+      },
+      Array [
+        Object {
+          "color": "#faa632",
+          "fontFamily": "Open Sans",
+          "fontWeight": "400",
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<A /> renders component when passed in 1`] = `
+<Styled(Text)>
+  <Component />
+</Styled(Text)>
+`;
+
+exports[`<A /> renders text when passed in 1`] = `
+<Styled(Text)>
+  Test
+</Styled(Text)>
+`;

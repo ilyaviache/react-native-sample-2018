@@ -1,0 +1,197 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PercentageBadge /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "backgroundColor": "#f25c74",
+          "borderRadius": 2,
+          "marginLeft": 10,
+          "paddingBottom": 4,
+          "paddingLeft": 20,
+          "paddingRight": 20,
+          "paddingTop": 4,
+        },
+        undefined,
+      ],
+    ]
+  }
+  upraising={false}
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#000",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 16,
+            "fontWeight": "400",
+          },
+          undefined,
+        ],
+      ]
+    }
+    upraising={false}
+  >
+    50
+  </Text>
+</View>
+`;
+
+exports[`<PercentageBadge /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "backgroundColor": "#f25c74",
+          "borderRadius": 2,
+          "marginLeft": 10,
+          "paddingBottom": 4,
+          "paddingLeft": 20,
+          "paddingRight": 20,
+          "paddingTop": 4,
+        },
+        undefined,
+      ],
+    ]
+  }
+  upraising={false}
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#000",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 16,
+            "fontWeight": "400",
+          },
+          undefined,
+        ],
+      ]
+    }
+    upraising={false}
+  >
+    50
+  </Text>
+</View>
+`;
+
+exports[`<PercentageBadge /> upraising: true dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "backgroundColor": "#f25c74",
+          "borderRadius": 2,
+          "marginLeft": 10,
+          "paddingBottom": 4,
+          "paddingLeft": 20,
+          "paddingRight": 20,
+          "paddingTop": 4,
+        },
+        undefined,
+      ],
+    ]
+  }
+  upraising={false}
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#000",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 16,
+            "fontWeight": "400",
+          },
+          undefined,
+        ],
+      ]
+    }
+    upraising={false}
+  >
+    50
+  </Text>
+</View>
+`;
+
+exports[`<PercentageBadge /> upraising: true light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "backgroundColor": "#f25c74",
+          "borderRadius": 2,
+          "marginLeft": 10,
+          "paddingBottom": 4,
+          "paddingLeft": 20,
+          "paddingRight": 20,
+          "paddingTop": 4,
+        },
+        undefined,
+      ],
+    ]
+  }
+  upraising={false}
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "color": "#000",
+            "fontFamily": "Roboto Condensed",
+            "fontSize": 16,
+            "fontWeight": "400",
+          },
+          undefined,
+        ],
+      ]
+    }
+    upraising={false}
+  >
+    50
+  </Text>
+</View>
+`;

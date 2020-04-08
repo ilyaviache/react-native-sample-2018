@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TouchableHighlight /> renders component when passed in 1`] = `
+<Styled(TouchableHighlight)>
+  <Component />
+</Styled(TouchableHighlight)>
+`;
+
+exports[`<TouchableHighlight /> renders text when passed in 1`] = `
+<Styled(TouchableHighlight)>
+  Test
+</Styled(TouchableHighlight)>
+`;

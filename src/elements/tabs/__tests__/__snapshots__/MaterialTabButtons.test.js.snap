@@ -1,0 +1,805 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MaterialTabButtons /> active: test2 dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#464242",
+        "borderBottomWidth": 4,
+        "borderColor": "#464242",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+        "paddingBottom": 13,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 13,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={false}
+      allowFontScaling={true}
+      buttonPress={[MockFunction]}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#fcfcfc",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+      value="test1"
+    >
+      Test 1
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#181818",
+        "borderBottomWidth": 4,
+        "borderColor": "#2a986f",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+        "paddingBottom": 13,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 13,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={true}
+      allowFontScaling={true}
+      buttonPress={[MockFunction]}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#fcfcfc",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+      value="test2"
+    >
+      Test 2
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#464242",
+        "borderBottomWidth": 4,
+        "borderColor": "#464242",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+        "paddingBottom": 13,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 13,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={false}
+      allowFontScaling={true}
+      buttonPress={[MockFunction]}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#fcfcfc",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+      value="test3"
+    >
+      Test 3
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<MaterialTabButtons /> active: test2 light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#eae8e0",
+        "borderBottomWidth": 4,
+        "borderColor": "#eae8e0",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+        "paddingBottom": 13,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 13,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={false}
+      allowFontScaling={true}
+      buttonPress={[MockFunction]}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#000",
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+      value="test1"
+    >
+      Test 1
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#5d5959",
+        "borderBottomWidth": 4,
+        "borderColor": "#2a986f",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+        "paddingBottom": 13,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 13,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={true}
+      allowFontScaling={true}
+      buttonPress={[MockFunction]}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+      value="test2"
+    >
+      Test 2
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#eae8e0",
+        "borderBottomWidth": 4,
+        "borderColor": "#eae8e0",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+        "paddingBottom": 13,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 13,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={false}
+      allowFontScaling={true}
+      buttonPress={[MockFunction]}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#000",
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+      value="test3"
+    >
+      Test 3
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<MaterialTabButtons /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#181818",
+        "borderBottomWidth": 4,
+        "borderColor": "#2a986f",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+        "paddingBottom": 13,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 13,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={true}
+      allowFontScaling={true}
+      buttonPress={[MockFunction]}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#fcfcfc",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+      value="test1"
+    >
+      Test 1
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#464242",
+        "borderBottomWidth": 4,
+        "borderColor": "#464242",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+        "paddingBottom": 13,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 13,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={false}
+      allowFontScaling={true}
+      buttonPress={[MockFunction]}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#fcfcfc",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+      value="test2"
+    >
+      Test 2
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#464242",
+        "borderBottomWidth": 4,
+        "borderColor": "#464242",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+        "paddingBottom": 13,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 13,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={false}
+      allowFontScaling={true}
+      buttonPress={[MockFunction]}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#fcfcfc",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+      value="test3"
+    >
+      Test 3
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<MaterialTabButtons /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#5d5959",
+        "borderBottomWidth": 4,
+        "borderColor": "#2a986f",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+        "paddingBottom": 13,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 13,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={true}
+      allowFontScaling={true}
+      buttonPress={[MockFunction]}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+      value="test1"
+    >
+      Test 1
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#eae8e0",
+        "borderBottomWidth": 4,
+        "borderColor": "#eae8e0",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+        "paddingBottom": 13,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 13,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={false}
+      allowFontScaling={true}
+      buttonPress={[MockFunction]}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#000",
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+      value="test2"
+    >
+      Test 2
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#eae8e0",
+        "borderBottomWidth": 4,
+        "borderColor": "#eae8e0",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+        "paddingBottom": 13,
+        "paddingLeft": 0,
+        "paddingRight": 0,
+        "paddingTop": 13,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={false}
+      allowFontScaling={true}
+      buttonPress={[MockFunction]}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#000",
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+      value="test3"
+    >
+      Test 3
+    </Text>
+  </View>
+</View>
+`;

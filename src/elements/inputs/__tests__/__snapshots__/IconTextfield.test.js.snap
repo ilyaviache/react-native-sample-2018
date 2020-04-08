@@ -1,0 +1,1305 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<IconTextfield /> children: Icon dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "left": 9,
+          "position": "absolute",
+          "top": 7,
+          "width": 40,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#c1c1c1",
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "color": "#c1c1c1",
+            },
+            undefined,
+          ],
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#eeeeee"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#3d3b3b",
+            "fontFamily": "Open Sans",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingLeft": 34,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#c1c1c1",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<IconTextfield /> children: Icon light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "left": 9,
+          "position": "absolute",
+          "top": 7,
+          "width": 40,
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#4b4c4d",
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "color": "#4b4c4d",
+            },
+            undefined,
+          ],
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#3d3b3b"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#3d3b3b",
+            "fontFamily": "Open Sans",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingLeft": 34,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#4b4c4d",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<IconTextfield /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "left": 9,
+          "position": "absolute",
+          "top": 7,
+          "width": 40,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#eeeeee"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#3d3b3b",
+            "fontFamily": "Open Sans",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingLeft": 34,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#c1c1c1",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<IconTextfield /> error: true dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "left": 9,
+          "position": "absolute",
+          "top": 7,
+          "width": 40,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#eeeeee"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#3d3b3b",
+            "fontFamily": "Open Sans",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingLeft": 34,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#c1c1c1",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<IconTextfield /> error: true light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "left": 9,
+          "position": "absolute",
+          "top": 7,
+          "width": 40,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#3d3b3b"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#3d3b3b",
+            "fontFamily": "Open Sans",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingLeft": 34,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#4b4c4d",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<IconTextfield /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "left": 9,
+          "position": "absolute",
+          "top": 7,
+          "width": 40,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#3d3b3b"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#3d3b3b",
+            "fontFamily": "Open Sans",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingLeft": 34,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#4b4c4d",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<IconTextfield /> size: small dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "left": 9,
+          "position": "absolute",
+          "top": 7,
+          "width": 40,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#eeeeee"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#3d3b3b",
+            "fontFamily": "Open Sans",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingLeft": 34,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#c1c1c1",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<IconTextfield /> size: small light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "left": 9,
+          "position": "absolute",
+          "top": 7,
+          "width": 40,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#3d3b3b"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#3d3b3b",
+            "fontFamily": "Open Sans",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingLeft": 34,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#4b4c4d",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<IconTextfield /> type: number dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "left": 9,
+          "position": "absolute",
+          "top": 7,
+          "width": 40,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      keyboardType="numeric"
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#eeeeee"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#3d3b3b",
+            "fontFamily": "Open Sans",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingLeft": 34,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#c1c1c1",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<IconTextfield /> type: number light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "left": 9,
+          "position": "absolute",
+          "top": 7,
+          "width": 40,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      keyboardType="numeric"
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={false}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#3d3b3b"
+      secureTextEntry={false}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#3d3b3b",
+            "fontFamily": "Open Sans",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingLeft": 34,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#4b4c4d",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<IconTextfield /> type: password dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "left": 9,
+          "position": "absolute",
+          "top": 7,
+          "width": 40,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={true}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#eeeeee"
+      secureTextEntry={true}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#3d3b3b",
+            "fontFamily": "Open Sans",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingLeft": 34,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#c1c1c1",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<IconTextfield /> type: password light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "left": 9,
+          "position": "absolute",
+          "top": 7,
+          "width": 40,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "height": 39,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      onBlur={[Function]}
+      onChange={[MockFunction]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      password={true}
+      placeholder="Test Placeholder"
+      placeholderTextColor="#3d3b3b"
+      secureTextEntry={true}
+      selectionColor="#faa632"
+      style={
+        Array [
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "transparent",
+            "marginTop": 0,
+            "paddingBottom": 2,
+            "paddingTop": 2,
+          },
+          Object {
+            "color": "rgb(117, 117, 117)",
+            "fontSize": 16,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+          },
+          Object {
+            "color": "#3d3b3b",
+            "fontFamily": "Open Sans",
+            "fontSize": 14,
+            "fontWeight": "300",
+            "paddingBottom": 6,
+            "paddingLeft": 34,
+            "paddingTop": 6,
+          },
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value="value"
+    />
+    <View
+      pointerEvents="none"
+      style={
+        Object {
+          "height": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#4b4c4d",
+            "height": 1,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "#faa632",
+            "height": 1,
+            "left": 0,
+            "position": "absolute",
+            "width": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;

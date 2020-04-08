@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SimpleButton /> active: renders correctly 1`] = `undefined`;
+
+exports[`<SimpleButton /> dark: renders correctly 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
+  isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "backgroundColor": "#faa632",
+          "borderColor": "#fff",
+          "borderRadius": 2,
+          "borderWidth": 1,
+          "flexWrap": "wrap",
+          "height": 21,
+          "justifyContent": "center",
+          "marginLeft": 3,
+          "opacity": 1,
+          "width": 64,
+        },
+        undefined,
+      ],
+    ]
+  }
+  testID={undefined}
+  tvParallaxProperties={undefined}
+>
+  <Text
+    accessible={true}
+    active={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#000",
+          "fontFamily": "Open Sans",
+          "fontSize": 12,
+        },
+        null,
+      ]
+    }
+  >
+    Test
+  </Text>
+</View>
+`;
+
+exports[`<SimpleButton /> enabled: renders correctly 1`] = `undefined`;
+
+exports[`<SimpleButton /> light: renders correctly 1`] = `
+<View
+  accessibilityComponentType={undefined}
+  accessibilityLabel={undefined}
+  accessibilityTraits={undefined}
+  accessible={true}
+  hasTVPreferredFocus={undefined}
+  hitSlop={undefined}
+  isTVSelectable={true}
+  nativeID={undefined}
+  onLayout={undefined}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "alignSelf": "center",
+          "backgroundColor": "#faa632",
+          "borderColor": "#fff",
+          "borderRadius": 2,
+          "borderWidth": 1,
+          "flexWrap": "wrap",
+          "height": 21,
+          "justifyContent": "center",
+          "marginLeft": 3,
+          "opacity": 1,
+          "width": 64,
+        },
+        undefined,
+      ],
+    ]
+  }
+  testID={undefined}
+  tvParallaxProperties={undefined}
+>
+  <Text
+    accessible={true}
+    active={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#000",
+          "fontFamily": "Open Sans",
+          "fontSize": 12,
+        },
+        null,
+      ]
+    }
+  >
+    Test
+  </Text>
+</View>
+`;
+
+exports[`<SimpleButton /> onPress: don't fires event when button disabled 1`] = `
+<Styled(TouchableHighlight)
+  acitve={true}
+  active={true}
+  enabled={false}
+  onPress={[Function]}
+>
+  <Styled(Text)
+    active={true}
+  >
+    Test
+  </Styled(Text)>
+</Styled(TouchableHighlight)>
+`;
+
+exports[`<SimpleButton /> onPress: properly fires when button pressed 1`] = `
+<Styled(TouchableHighlight)
+  acitve={true}
+  active={true}
+  enabled={true}
+  onPress={[Function]}
+>
+  <Styled(Text)
+    active={true}
+  >
+    Test
+  </Styled(Text)>
+</Styled(TouchableHighlight)>
+`;

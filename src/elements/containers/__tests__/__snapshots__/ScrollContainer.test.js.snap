@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ScrollContainer /> dark: renders correctly 1`] = `
+<RCTScrollView
+  contentContainerStyle={Object {}}
+  fullheight={false}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "position": "relative",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View />
+</RCTScrollView>
+`;
+
+exports[`<ScrollContainer /> disabled: true dark: renders correctly 1`] = `
+<RCTScrollView
+  contentContainerStyle={Object {}}
+  fullheight={false}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "position": "relative",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View>
+    <View
+      show={true}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "backgroundColor": "#fff",
+              "bottom": 0,
+              "display": "flex",
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "height": "auto",
+              "left": 0,
+              "opacity": 0.6,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+              "zIndex": 9999,
+            },
+            undefined,
+          ],
+        ]
+      }
+    />
+  </View>
+</RCTScrollView>
+`;
+
+exports[`<ScrollContainer /> disabled: true light: renders correctly 1`] = `
+<RCTScrollView
+  contentContainerStyle={Object {}}
+  fullheight={false}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "position": "relative",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View>
+    <View
+      show={true}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "backgroundColor": "#fff",
+              "bottom": 0,
+              "display": "flex",
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "height": "auto",
+              "left": 0,
+              "opacity": 0.6,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+              "zIndex": 9999,
+            },
+            undefined,
+          ],
+        ]
+      }
+    />
+  </View>
+</RCTScrollView>
+`;
+
+exports[`<ScrollContainer /> fullheight: true dark: renders correctly 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    Object {
+      "flexGrow": 1,
+    }
+  }
+  fullheight={true}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "position": "relative",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View />
+</RCTScrollView>
+`;
+
+exports[`<ScrollContainer /> fullheight: true light: renders correctly 1`] = `
+<RCTScrollView
+  contentContainerStyle={
+    Object {
+      "flexGrow": 1,
+    }
+  }
+  fullheight={true}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "position": "relative",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View />
+</RCTScrollView>
+`;
+
+exports[`<ScrollContainer /> light: renders correctly 1`] = `
+<RCTScrollView
+  contentContainerStyle={Object {}}
+  fullheight={false}
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "position": "relative",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View />
+</RCTScrollView>
+`;

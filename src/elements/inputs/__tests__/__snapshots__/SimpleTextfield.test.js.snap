@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SimpleTextfield /> dark: renders correctly 1`] = `
+<TextInput
+  allowFontScaling={true}
+  name="name"
+  onChange={[Function]}
+  style={
+    Array [
+      Object {
+        "borderColor": "#464242",
+        "borderStyle": "solid",
+        "borderWidth": 1,
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "fontSize": 11,
+        "maxWidth": 120,
+        "paddingBottom": 2,
+        "paddingLeft": 5,
+        "paddingRight": 5,
+        "paddingTop": 2,
+      },
+      undefined,
+    ]
+  }
+  value="value"
+/>
+`;
+
+exports[`<SimpleTextfield /> light: renders correctly 1`] = `
+<TextInput
+  allowFontScaling={true}
+  name="name"
+  onChange={[Function]}
+  style={
+    Array [
+      Object {
+        "borderColor": "#c1c1c1",
+        "borderStyle": "solid",
+        "borderWidth": 1,
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "fontSize": 11,
+        "maxWidth": 120,
+        "paddingBottom": 2,
+        "paddingLeft": 5,
+        "paddingRight": 5,
+        "paddingTop": 2,
+      },
+      undefined,
+    ]
+  }
+  value="value"
+/>
+`;

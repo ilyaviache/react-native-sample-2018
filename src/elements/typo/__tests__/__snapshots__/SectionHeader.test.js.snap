@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SectionHeader /> dark: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": "#fcfcfc",
+        "fontFamily": "Open Sans",
+      },
+      Array [
+        Object {
+          "fontFamily": "Lato",
+          "fontSize": 15,
+          "fontWeight": "400",
+          "marginBottom": 5,
+          "marginLeft": 0,
+          "marginRight": 0,
+          "marginTop": 5,
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<SectionHeader /> light: renders correctly 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  ellipsizeMode="tail"
+  style={
+    Array [
+      Object {
+        "color": "#000000",
+        "fontFamily": "Open Sans",
+      },
+      Array [
+        Object {
+          "fontFamily": "Lato",
+          "fontSize": 15,
+          "fontWeight": "400",
+          "marginBottom": 5,
+          "marginLeft": 0,
+          "marginRight": 0,
+          "marginTop": 5,
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<SectionHeader /> renders component when passed in 1`] = `
+<Styled(Text)>
+  <Component />
+</Styled(Text)>
+`;
+
+exports[`<SectionHeader /> renders text when passed in 1`] = `
+<Styled(Text)>
+  Test
+</Styled(Text)>
+`;

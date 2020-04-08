@@ -1,0 +1,253 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Switch /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "alignSelf": "flex-start",
+        "flexDirection": "column",
+        "width": "auto",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    pointerEvents="box-only"
+    style={
+      Array [
+        Object {},
+        undefined,
+      ]
+    }
+    testID={undefined}
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "rgba(0, 0, 0, 0.25)",
+          "borderRadius": 10,
+          "height": 20,
+          "margin": 18,
+          "width": 48,
+        }
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "left": 0,
+            "top": 0,
+          },
+          Object {
+            "backgroundColor": "transparent",
+            "height": 56,
+            "position": "absolute",
+            "width": 56,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "elevation": 2,
+              "shadowColor": "black",
+              "shadowOffset": Object {
+                "height": 1,
+                "width": 0,
+              },
+              "shadowOpacity": 0.7,
+              "shadowRadius": 1,
+            },
+            Object {
+              "borderRadius": 14,
+              "height": 28,
+              "left": 14,
+              "top": 14,
+              "width": 28,
+            },
+            Object {
+              "backgroundColor": "#EAEAEA",
+            },
+          ]
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "rgba(250,166,50,.15)",
+            "borderRadius": 28,
+            "height": 56,
+            "left": 0,
+            "opacity": 0,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "scale": 0,
+              },
+            ],
+            "width": 56,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {},
+        undefined,
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`<Switch /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "alignSelf": "flex-start",
+        "flexDirection": "column",
+        "width": "auto",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    hitSlop={undefined}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    pointerEvents="box-only"
+    style={
+      Array [
+        Object {},
+        undefined,
+      ]
+    }
+    testID={undefined}
+  >
+    <View
+      style={
+        Object {
+          "backgroundColor": "rgba(0, 0, 0, 0.25)",
+          "borderRadius": 10,
+          "height": 20,
+          "margin": 18,
+          "width": 48,
+        }
+      }
+    />
+    <View
+      style={
+        Array [
+          Object {
+            "left": 0,
+            "top": 0,
+          },
+          Object {
+            "backgroundColor": "transparent",
+            "height": 56,
+            "position": "absolute",
+            "width": 56,
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "elevation": 2,
+              "shadowColor": "black",
+              "shadowOffset": Object {
+                "height": 1,
+                "width": 0,
+              },
+              "shadowOpacity": 0.7,
+              "shadowRadius": 1,
+            },
+            Object {
+              "borderRadius": 14,
+              "height": 28,
+              "left": 14,
+              "top": 14,
+              "width": 28,
+            },
+            Object {
+              "backgroundColor": "#EAEAEA",
+            },
+          ]
+        }
+      />
+      <View
+        collapsable={undefined}
+        style={
+          Object {
+            "backgroundColor": "rgba(250,166,50,.15)",
+            "borderRadius": 28,
+            "height": 56,
+            "left": 0,
+            "opacity": 0,
+            "position": "absolute",
+            "top": 0,
+            "transform": Array [
+              Object {
+                "scale": 0,
+              },
+            ],
+            "width": 56,
+          }
+        }
+      />
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {},
+        undefined,
+      ]
+    }
+  />
+</View>
+`;

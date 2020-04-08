@@ -1,0 +1,541 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<OrderTabs /> active: value 2 dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderColor": "#000000",
+        "borderRightWidth": 1,
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={false}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#fcfcfc",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "backgroundColor": "#464242",
+              "color": "#c8c8c8",
+              "paddingBottom": 4,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 4,
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      label 1
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderColor": "#000000",
+        "borderRightWidth": 0,
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#fcfcfc",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#faa632",
+              "paddingBottom": 4,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 4,
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      label 2
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<OrderTabs /> active: value 2 light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderColor": "#fefaec",
+        "borderRightWidth": 1,
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={false}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "backgroundColor": "#eae8e0",
+              "color": "#000000",
+              "paddingBottom": 4,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 4,
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      label 1
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderColor": "#fefaec",
+        "borderRightWidth": 0,
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#faa632",
+              "paddingBottom": 4,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 4,
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      label 2
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<OrderTabs /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderColor": "#000000",
+        "borderRightWidth": 1,
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#fcfcfc",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#faa632",
+              "paddingBottom": 4,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 4,
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      label 1
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderColor": "#000000",
+        "borderRightWidth": 0,
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={false}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#fcfcfc",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "backgroundColor": "#464242",
+              "color": "#c8c8c8",
+              "paddingBottom": 4,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 4,
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      label 2
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`<OrderTabs /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "display": "flex",
+          "flexDirection": "row",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderColor": "#fefaec",
+        "borderRightWidth": 1,
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "color": "#faa632",
+              "paddingBottom": 4,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 4,
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      label 1
+    </Text>
+  </View>
+  <View
+    accessibilityComponentType={undefined}
+    accessibilityLabel={undefined}
+    accessibilityTraits={undefined}
+    accessible={true}
+    collapsable={undefined}
+    hasTVPreferredFocus={undefined}
+    hitSlop={undefined}
+    isTVSelectable={true}
+    nativeID={undefined}
+    onLayout={undefined}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderColor": "#fefaec",
+        "borderRightWidth": 0,
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "opacity": 1,
+      }
+    }
+    testID={undefined}
+    tvParallaxProperties={undefined}
+  >
+    <Text
+      accessible={true}
+      active={false}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": "#000000",
+            "fontFamily": "Open Sans",
+          },
+          Array [
+            Object {
+              "backgroundColor": "#eae8e0",
+              "color": "#000000",
+              "paddingBottom": 4,
+              "paddingLeft": 0,
+              "paddingRight": 0,
+              "paddingTop": 4,
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      label 2
+    </Text>
+  </View>
+</View>
+`;

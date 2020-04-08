@@ -1,0 +1,2957 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CurrencyItem /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "height": 60,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexBasis": 0,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "space-between",
+        "paddingRight": 20,
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+        ],
+      }
+    }
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+          "paddingLeft": 20,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={false}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": undefined,
+              "fontSize": 12,
+            },
+            Array [
+              Object {
+                "color": "#fcfcfc",
+              },
+              Array [
+                Object {
+                  "marginRight": 5,
+                },
+                undefined,
+              ],
+            ],
+            Object {
+              "fontFamily": "icomoon",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      collapsable={undefined}
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderBottomColor": "#555555",
+          "borderBottomWidth": 1,
+          "display": "flex",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "space-between",
+          "opacity": 1,
+          "paddingBottom": 6,
+          "paddingRight": 0,
+          "paddingTop": 6,
+          "position": "relative",
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#c1c1c1",
+                  "fontSize": 13,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          XRP
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "#fcfcfc",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "fontSize": 18,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          ZRX
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#fcfcfc",
+                  "fontFamily": "Open Sans",
+                },
+                Array [
+                  Object {
+                    "color": "#c1c1c1",
+                    "fontSize": 13,
+                    "fontWeight": "normal",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+          >
+             / 
+          </Text>
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#c1c1c1",
+                  "fontSize": 11,
+                  "lineHeight": 12,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Vol.
+           
+          849.12
+        </Text>
+      </View>
+      <View
+        rightSided={true}
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": "auto",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#f25c74",
+                  "fontSize": 11,
+                },
+                undefined,
+              ],
+            ]
+          }
+          upraising={false}
+        >
+          0.0000017823
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#c1c1c1",
+                  "fontSize": 11,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          = 
+          $10
+        </Text>
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Array [
+                Object {
+                  "backgroundColor": "#f25c74",
+                  "borderRadius": 2,
+                  "marginLeft": 10,
+                  "paddingBottom": 4,
+                  "paddingLeft": 20,
+                  "paddingRight": 20,
+                  "paddingTop": 4,
+                },
+                undefined,
+              ],
+            ]
+          }
+          upraising={false}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#fcfcfc",
+                  "fontFamily": "Open Sans",
+                },
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "Roboto Condensed",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+            upraising={false}
+          >
+            -
+            0.23%
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "backgroundColor": "black",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "height": "100%",
+        "left": "100%",
+        "marginLeft": -10,
+        "opacity": 0,
+        "position": "absolute",
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+        ],
+        "width": "100%",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          4292412998,
+          4293411125,
+        ]
+      }
+      endPoint={undefined}
+      locations={null}
+      startPoint={undefined}
+      style={
+        Array [
+          Object {
+            "display": "flex",
+            "height": "100%",
+            "width": "100%",
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        collapsable={undefined}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "height": "100%",
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 60,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={false}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": undefined,
+                "fontSize": 19,
+              },
+              Array [
+                Object {
+                  "color": "#fcfcfc",
+                },
+                Array [
+                  Object {
+                    "color": "#fff",
+                  },
+                  undefined,
+                ],
+              ],
+              Object {
+                "fontFamily": "icomoon",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+            ]
+          }
+        >
+          
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "fontSize": 13,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Delete
+        </Text>
+      </View>
+    </BVLinearGradient>
+  </View>
+</View>
+`;
+
+exports[`<CurrencyItem /> favorite: true dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "height": 60,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexBasis": 0,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "space-between",
+        "paddingRight": 20,
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+        ],
+      }
+    }
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+          "paddingLeft": 20,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={false}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": undefined,
+              "fontSize": 12,
+            },
+            Array [
+              Object {
+                "color": "#fcfcfc",
+              },
+              Array [
+                Object {
+                  "marginRight": 5,
+                },
+                Array [
+                  Object {
+                    "color": "#faa632",
+                  },
+                  undefined,
+                ],
+              ],
+            ],
+            Object {
+              "fontFamily": "icomoon",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      collapsable={undefined}
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderBottomColor": "#555555",
+          "borderBottomWidth": 1,
+          "display": "flex",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "space-between",
+          "opacity": 1,
+          "paddingBottom": 6,
+          "paddingRight": 0,
+          "paddingTop": 6,
+          "position": "relative",
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#c1c1c1",
+                  "fontSize": 13,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          XRP
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "#fcfcfc",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "fontSize": 18,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          ZRX
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#fcfcfc",
+                  "fontFamily": "Open Sans",
+                },
+                Array [
+                  Object {
+                    "color": "#c1c1c1",
+                    "fontSize": 13,
+                    "fontWeight": "normal",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+          >
+             / 
+          </Text>
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#c1c1c1",
+                  "fontSize": 11,
+                  "lineHeight": 12,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Vol.
+           
+          849.12
+        </Text>
+      </View>
+      <View
+        rightSided={true}
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": "auto",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#f25c74",
+                  "fontSize": 11,
+                },
+                undefined,
+              ],
+            ]
+          }
+          upraising={false}
+        >
+          0.0000017823
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#c1c1c1",
+                  "fontSize": 11,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          = 
+          $10
+        </Text>
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Array [
+                Object {
+                  "backgroundColor": "#f25c74",
+                  "borderRadius": 2,
+                  "marginLeft": 10,
+                  "paddingBottom": 4,
+                  "paddingLeft": 20,
+                  "paddingRight": 20,
+                  "paddingTop": 4,
+                },
+                undefined,
+              ],
+            ]
+          }
+          upraising={false}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#fcfcfc",
+                  "fontFamily": "Open Sans",
+                },
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "Roboto Condensed",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+            upraising={false}
+          >
+            -
+            0.23%
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "backgroundColor": "black",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "height": "100%",
+        "left": "100%",
+        "marginLeft": -10,
+        "opacity": 0,
+        "position": "absolute",
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+        ],
+        "width": "100%",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          4292412998,
+          4293411125,
+        ]
+      }
+      endPoint={undefined}
+      locations={null}
+      startPoint={undefined}
+      style={
+        Array [
+          Object {
+            "display": "flex",
+            "height": "100%",
+            "width": "100%",
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        collapsable={undefined}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "height": "100%",
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 60,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={false}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": undefined,
+                "fontSize": 19,
+              },
+              Array [
+                Object {
+                  "color": "#fcfcfc",
+                },
+                Array [
+                  Object {
+                    "color": "#fff",
+                  },
+                  undefined,
+                ],
+              ],
+              Object {
+                "fontFamily": "icomoon",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+            ]
+          }
+        >
+          
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "fontSize": 13,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Delete
+        </Text>
+      </View>
+    </BVLinearGradient>
+  </View>
+</View>
+`;
+
+exports[`<CurrencyItem /> favorite: true light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "height": 60,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexBasis": 0,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "space-between",
+        "paddingRight": 20,
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+        ],
+      }
+    }
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+          "paddingLeft": 20,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={false}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": undefined,
+              "fontSize": 12,
+            },
+            Array [
+              Object {
+                "color": "#4b4c4d",
+              },
+              Array [
+                Object {
+                  "marginRight": 5,
+                },
+                Array [
+                  Object {
+                    "color": "#faa632",
+                  },
+                  undefined,
+                ],
+              ],
+            ],
+            Object {
+              "fontFamily": "icomoon",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      collapsable={undefined}
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderBottomColor": "#cac6bd",
+          "borderBottomWidth": 1,
+          "display": "flex",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "space-between",
+          "opacity": 1,
+          "paddingBottom": 6,
+          "paddingRight": 0,
+          "paddingTop": 6,
+          "position": "relative",
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#3d3b3b",
+                  "fontSize": 13,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          XRP
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "fontSize": 18,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          ZRX
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Open Sans",
+                },
+                Array [
+                  Object {
+                    "color": "#3d3b3b",
+                    "fontSize": 13,
+                    "fontWeight": "normal",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+          >
+             / 
+          </Text>
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#3d3b3b",
+                  "fontSize": 11,
+                  "lineHeight": 12,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Vol.
+           
+          849.12
+        </Text>
+      </View>
+      <View
+        rightSided={true}
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": "auto",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#f25c74",
+                  "fontSize": 11,
+                },
+                undefined,
+              ],
+            ]
+          }
+          upraising={false}
+        >
+          0.0000017823
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#3d3b3b",
+                  "fontSize": 11,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          = 
+          $10
+        </Text>
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Array [
+                Object {
+                  "backgroundColor": "#f25c74",
+                  "borderRadius": 2,
+                  "marginLeft": 10,
+                  "paddingBottom": 4,
+                  "paddingLeft": 20,
+                  "paddingRight": 20,
+                  "paddingTop": 4,
+                },
+                undefined,
+              ],
+            ]
+          }
+          upraising={false}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Open Sans",
+                },
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "Roboto Condensed",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+            upraising={false}
+          >
+            -
+            0.23%
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "backgroundColor": "black",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "height": "100%",
+        "left": "100%",
+        "marginLeft": -10,
+        "opacity": 0,
+        "position": "absolute",
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+        ],
+        "width": "100%",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          4292412998,
+          4293411125,
+        ]
+      }
+      endPoint={undefined}
+      locations={null}
+      startPoint={undefined}
+      style={
+        Array [
+          Object {
+            "display": "flex",
+            "height": "100%",
+            "width": "100%",
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        collapsable={undefined}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "height": "100%",
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 60,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={false}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": undefined,
+                "fontSize": 19,
+              },
+              Array [
+                Object {
+                  "color": "#4b4c4d",
+                },
+                Array [
+                  Object {
+                    "color": "#fff",
+                  },
+                  undefined,
+                ],
+              ],
+              Object {
+                "fontFamily": "icomoon",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+            ]
+          }
+        >
+          
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "fontSize": 13,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Delete
+        </Text>
+      </View>
+    </BVLinearGradient>
+  </View>
+</View>
+`;
+
+exports[`<CurrencyItem /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "height": 60,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexBasis": 0,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "space-between",
+        "paddingRight": 20,
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+        ],
+      }
+    }
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+          "paddingLeft": 20,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={false}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": undefined,
+              "fontSize": 12,
+            },
+            Array [
+              Object {
+                "color": "#4b4c4d",
+              },
+              Array [
+                Object {
+                  "marginRight": 5,
+                },
+                undefined,
+              ],
+            ],
+            Object {
+              "fontFamily": "icomoon",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      collapsable={undefined}
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderBottomColor": "#cac6bd",
+          "borderBottomWidth": 1,
+          "display": "flex",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "space-between",
+          "opacity": 1,
+          "paddingBottom": 6,
+          "paddingRight": 0,
+          "paddingTop": 6,
+          "position": "relative",
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#3d3b3b",
+                  "fontSize": 13,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          XRP
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "fontSize": 18,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          ZRX
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Open Sans",
+                },
+                Array [
+                  Object {
+                    "color": "#3d3b3b",
+                    "fontSize": 13,
+                    "fontWeight": "normal",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+          >
+             / 
+          </Text>
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#3d3b3b",
+                  "fontSize": 11,
+                  "lineHeight": 12,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Vol.
+           
+          849.12
+        </Text>
+      </View>
+      <View
+        rightSided={true}
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": "auto",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#f25c74",
+                  "fontSize": 11,
+                },
+                undefined,
+              ],
+            ]
+          }
+          upraising={false}
+        >
+          0.0000017823
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#3d3b3b",
+                  "fontSize": 11,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          = 
+          $10
+        </Text>
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Array [
+                Object {
+                  "backgroundColor": "#f25c74",
+                  "borderRadius": 2,
+                  "marginLeft": 10,
+                  "paddingBottom": 4,
+                  "paddingLeft": 20,
+                  "paddingRight": 20,
+                  "paddingTop": 4,
+                },
+                undefined,
+              ],
+            ]
+          }
+          upraising={false}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Open Sans",
+                },
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontFamily": "Roboto Condensed",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+            upraising={false}
+          >
+            -
+            0.23%
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "backgroundColor": "black",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "height": "100%",
+        "left": "100%",
+        "marginLeft": -10,
+        "opacity": 0,
+        "position": "absolute",
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+        ],
+        "width": "100%",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          4292412998,
+          4293411125,
+        ]
+      }
+      endPoint={undefined}
+      locations={null}
+      startPoint={undefined}
+      style={
+        Array [
+          Object {
+            "display": "flex",
+            "height": "100%",
+            "width": "100%",
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        collapsable={undefined}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "height": "100%",
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 60,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={false}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": undefined,
+                "fontSize": 19,
+              },
+              Array [
+                Object {
+                  "color": "#4b4c4d",
+                },
+                Array [
+                  Object {
+                    "color": "#fff",
+                  },
+                  undefined,
+                ],
+              ],
+              Object {
+                "fontFamily": "icomoon",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+            ]
+          }
+        >
+          
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "fontSize": 13,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Delete
+        </Text>
+      </View>
+    </BVLinearGradient>
+  </View>
+</View>
+`;
+
+exports[`<CurrencyItem /> upraising: true dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "height": 60,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexBasis": 0,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "space-between",
+        "paddingRight": 20,
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+        ],
+      }
+    }
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+          "paddingLeft": 20,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={false}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": undefined,
+              "fontSize": 12,
+            },
+            Array [
+              Object {
+                "color": "#fcfcfc",
+              },
+              Array [
+                Object {
+                  "marginRight": 5,
+                },
+                undefined,
+              ],
+            ],
+            Object {
+              "fontFamily": "icomoon",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      collapsable={undefined}
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderBottomColor": "#555555",
+          "borderBottomWidth": 1,
+          "display": "flex",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "space-between",
+          "opacity": 1,
+          "paddingBottom": 6,
+          "paddingRight": 0,
+          "paddingTop": 6,
+          "position": "relative",
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#c1c1c1",
+                  "fontSize": 13,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          XRP
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "#fcfcfc",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "fontSize": 18,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          ZRX
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#fcfcfc",
+                  "fontFamily": "Open Sans",
+                },
+                Array [
+                  Object {
+                    "color": "#c1c1c1",
+                    "fontSize": 13,
+                    "fontWeight": "normal",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+          >
+             / 
+          </Text>
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#c1c1c1",
+                  "fontSize": 11,
+                  "lineHeight": 12,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Vol.
+           
+          849.12
+        </Text>
+      </View>
+      <View
+        rightSided={true}
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": "auto",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#2a986f",
+                  "fontSize": 11,
+                },
+                undefined,
+              ],
+            ]
+          }
+          upraising={true}
+        >
+          0.0000017823
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#c1c1c1",
+                  "fontSize": 11,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          = 
+          $10
+        </Text>
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Array [
+                Object {
+                  "backgroundColor": "#2a986f",
+                  "borderRadius": 2,
+                  "marginLeft": 10,
+                  "paddingBottom": 4,
+                  "paddingLeft": 20,
+                  "paddingRight": 20,
+                  "paddingTop": 4,
+                },
+                undefined,
+              ],
+            ]
+          }
+          upraising={true}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#fcfcfc",
+                  "fontFamily": "Open Sans",
+                },
+                Array [
+                  Object {
+                    "color": "#eaeaeb",
+                    "fontFamily": "Roboto Condensed",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+            upraising={true}
+          >
+            +
+            0.23%
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "backgroundColor": "black",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "height": "100%",
+        "left": "100%",
+        "marginLeft": -10,
+        "opacity": 0,
+        "position": "absolute",
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+        ],
+        "width": "100%",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          4292412998,
+          4293411125,
+        ]
+      }
+      endPoint={undefined}
+      locations={null}
+      startPoint={undefined}
+      style={
+        Array [
+          Object {
+            "display": "flex",
+            "height": "100%",
+            "width": "100%",
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        collapsable={undefined}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "height": "100%",
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 60,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={false}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": undefined,
+                "fontSize": 19,
+              },
+              Array [
+                Object {
+                  "color": "#fcfcfc",
+                },
+                Array [
+                  Object {
+                    "color": "#fff",
+                  },
+                  undefined,
+                ],
+              ],
+              Object {
+                "fontFamily": "icomoon",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+            ]
+          }
+        >
+          
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "fontSize": 13,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Delete
+        </Text>
+      </View>
+    </BVLinearGradient>
+  </View>
+</View>
+`;
+
+exports[`<CurrencyItem /> upraising: true light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "height": 60,
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexBasis": 0,
+        "flexDirection": "row",
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "space-between",
+        "paddingRight": 20,
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+        ],
+      }
+    }
+  >
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+          "paddingLeft": 20,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={false}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": undefined,
+              "fontSize": 12,
+            },
+            Array [
+              Object {
+                "color": "#4b4c4d",
+              },
+              Array [
+                Object {
+                  "marginRight": 5,
+                },
+                undefined,
+              ],
+            ],
+            Object {
+              "fontFamily": "icomoon",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      collapsable={undefined}
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "borderBottomColor": "#cac6bd",
+          "borderBottomWidth": 1,
+          "display": "flex",
+          "flexBasis": 0,
+          "flexDirection": "row",
+          "flexGrow": 1,
+          "flexShrink": 1,
+          "justifyContent": "space-between",
+          "opacity": 1,
+          "paddingBottom": 6,
+          "paddingRight": 0,
+          "paddingTop": 6,
+          "position": "relative",
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#3d3b3b",
+                  "fontSize": 13,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          XRP
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "fontSize": 18,
+                  "fontWeight": "bold",
+                  "lineHeight": 20,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          ZRX
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Open Sans",
+                },
+                Array [
+                  Object {
+                    "color": "#3d3b3b",
+                    "fontSize": 13,
+                    "fontWeight": "normal",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+          >
+             / 
+          </Text>
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#3d3b3b",
+                  "fontSize": 11,
+                  "lineHeight": 12,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Vol.
+           
+          849.12
+        </Text>
+      </View>
+      <View
+        rightSided={true}
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": "auto",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#2a986f",
+                  "fontSize": 11,
+                },
+                undefined,
+              ],
+            ]
+          }
+          upraising={true}
+        >
+          0.0000017823
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#3d3b3b",
+                  "fontSize": 11,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          = 
+          $10
+        </Text>
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "display": "flex",
+                "marginLeft": 0,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Array [
+                Object {
+                  "backgroundColor": "#2a986f",
+                  "borderRadius": 2,
+                  "marginLeft": 10,
+                  "paddingBottom": 4,
+                  "paddingLeft": 20,
+                  "paddingRight": 20,
+                  "paddingTop": 4,
+                },
+                undefined,
+              ],
+            ]
+          }
+          upraising={true}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "color": "#000000",
+                  "fontFamily": "Open Sans",
+                },
+                Array [
+                  Object {
+                    "color": "#eaeaeb",
+                    "fontFamily": "Roboto Condensed",
+                    "fontSize": 16,
+                    "fontWeight": "400",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+            upraising={true}
+          >
+            +
+            0.23%
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    collapsable={undefined}
+    style={
+      Object {
+        "backgroundColor": "black",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "height": "100%",
+        "left": "100%",
+        "marginLeft": -10,
+        "opacity": 0,
+        "position": "absolute",
+        "transform": Array [
+          Object {
+            "translateX": 0,
+          },
+        ],
+        "width": "100%",
+      }
+    }
+  >
+    <BVLinearGradient
+      colors={
+        Array [
+          4292412998,
+          4293411125,
+        ]
+      }
+      endPoint={undefined}
+      locations={null}
+      startPoint={undefined}
+      style={
+        Array [
+          Object {
+            "display": "flex",
+            "height": "100%",
+            "width": "100%",
+          },
+          undefined,
+        ]
+      }
+    >
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        collapsable={undefined}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "height": "100%",
+            "justifyContent": "center",
+            "opacity": 1,
+            "width": 60,
+          }
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={false}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "color": undefined,
+                "fontSize": 19,
+              },
+              Array [
+                Object {
+                  "color": "#4b4c4d",
+                },
+                Array [
+                  Object {
+                    "color": "#fff",
+                  },
+                  undefined,
+                ],
+              ],
+              Object {
+                "fontFamily": "icomoon",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+            ]
+          }
+        >
+          
+        </Text>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          style={
+            Array [
+              Object {
+                "fontFamily": "Roboto Condensed",
+                "fontWeight": "400",
+              },
+              Array [
+                Object {
+                  "color": "#fff",
+                  "fontSize": 13,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Delete
+        </Text>
+      </View>
+    </BVLinearGradient>
+  </View>
+</View>
+`;

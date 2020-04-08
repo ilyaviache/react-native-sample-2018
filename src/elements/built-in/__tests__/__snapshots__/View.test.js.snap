@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<View /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+/>
+`;
+
+exports[`<View /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      undefined,
+    ]
+  }
+/>
+`;
+
+exports[`<View /> renders component when passed in 1`] = `
+<Styled(Component)>
+  <Component />
+</Styled(Component)>
+`;
+
+exports[`<View /> renders text when passed in 1`] = `
+<Styled(Component)>
+  Test
+</Styled(Component)>
+`;

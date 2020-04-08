@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Checkbox /> renders correctly 1`] = `
+<Checkbox
+  checked={false}
+  inset={3}
+  onCheckedChange={[MockFunction]}
+/>
+`;

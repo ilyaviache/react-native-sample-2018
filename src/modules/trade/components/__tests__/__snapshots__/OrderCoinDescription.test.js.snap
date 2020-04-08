@@ -1,0 +1,1411 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<OrderCoinDescription /> dark: renders correctly 1`] = `
+<View
+  no-padding="true"
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#000",
+          "borderColor": "#f25c74",
+          "borderTopWidth": 1,
+          "display": "flex",
+          "flexDirection": "row",
+          "paddingBottom": 5,
+          "paddingLeft": 10,
+          "paddingRight": 0,
+          "paddingTop": 5,
+        },
+        undefined,
+      ],
+    ]
+  }
+  trend={false}
+>
+  <View
+    center="true"
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "marginLeft": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#f25c74",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "lineHeight": 16,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      trend={false}
+    >
+      0.1112323
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "fontSize": 12,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      $
+       
+      10.22
+    </Text>
+  </View>
+  <View
+    flex-direction="row"
+    no-padding={true}
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "row",
+            "marginLeft": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "color": "#fcfcfc",
+            },
+            Array [
+              Object {
+                "color": "#f25c74",
+                "marginRight": 5,
+                "transform": Array [
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+              },
+              undefined,
+            ],
+          ],
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+        ]
+      }
+      trend={false}
+    >
+      
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#f25c74",
+            },
+            Array [
+              Object {
+                "fontSize": 14,
+                "fontWeight": "bold",
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      trend={false}
+    >
+      0.18
+      %
+    </Text>
+  </View>
+  <View
+    margin-left="auto"
+    no-padding="true"
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "column",
+            "marginLeft": "auto",
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "https://s3-ap-southeast-1.amazonaws.com/tokenjar/zrx.png",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "height": 30,
+            "width": 30,
+          },
+          undefined,
+        ]
+      }
+    />
+  </View>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "column",
+            "marginLeft": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Roboto Condensed",
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#c8c8c8",
+                "fontSize": 13,
+                "lineHeight": 14,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Vol.
+         
+        64.23232
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Roboto Condensed",
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#c8c8c8",
+                "fontSize": 13,
+                "lineHeight": 14,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        High
+         
+        0.01212
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Roboto Condensed",
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#c8c8c8",
+                "fontSize": 13,
+                "lineHeight": 14,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Low
+         
+        0.011111
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<OrderCoinDescription /> light: renders correctly 1`] = `
+<View
+  no-padding="true"
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#5d5959",
+          "borderColor": "#f25c74",
+          "borderTopWidth": 1,
+          "display": "flex",
+          "flexDirection": "row",
+          "paddingBottom": 5,
+          "paddingLeft": 10,
+          "paddingRight": 0,
+          "paddingTop": 5,
+        },
+        undefined,
+      ],
+    ]
+  }
+  trend={false}
+>
+  <View
+    center="true"
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "marginLeft": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#f25c74",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "lineHeight": 16,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      trend={false}
+    >
+      0.1112323
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "fontSize": 12,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      $
+       
+      10.22
+    </Text>
+  </View>
+  <View
+    flex-direction="row"
+    no-padding={true}
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "row",
+            "marginLeft": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "color": "#4b4c4d",
+            },
+            Array [
+              Object {
+                "color": "#f25c74",
+                "marginRight": 5,
+                "transform": Array [
+                  Object {
+                    "rotate": "180deg",
+                  },
+                ],
+              },
+              undefined,
+            ],
+          ],
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+        ]
+      }
+      trend={false}
+    >
+      
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#f25c74",
+            },
+            Array [
+              Object {
+                "fontSize": 14,
+                "fontWeight": "bold",
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      trend={false}
+    >
+      0.18
+      %
+    </Text>
+  </View>
+  <View
+    margin-left="auto"
+    no-padding="true"
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "column",
+            "marginLeft": "auto",
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "https://s3-ap-southeast-1.amazonaws.com/tokenjar/zrx.png",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "height": 30,
+            "width": 30,
+          },
+          undefined,
+        ]
+      }
+    />
+  </View>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "column",
+            "marginLeft": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Roboto Condensed",
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 13,
+                "lineHeight": 14,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Vol.
+         
+        64.23232
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Roboto Condensed",
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 13,
+                "lineHeight": 14,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        High
+         
+        0.01212
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Roboto Condensed",
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 13,
+                "lineHeight": 14,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Low
+         
+        0.011111
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<OrderCoinDescription /> trend: true dark: renders correctly 1`] = `
+<View
+  no-padding="true"
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#000",
+          "borderColor": "#2a986f",
+          "borderTopWidth": 1,
+          "display": "flex",
+          "flexDirection": "row",
+          "paddingBottom": 5,
+          "paddingLeft": 10,
+          "paddingRight": 0,
+          "paddingTop": 5,
+        },
+        undefined,
+      ],
+    ]
+  }
+  trend={true}
+>
+  <View
+    center="true"
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "marginLeft": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "lineHeight": 16,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      trend={true}
+    >
+      0.1112323
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "fontSize": 12,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      $
+       
+      10.22
+    </Text>
+  </View>
+  <View
+    flex-direction="row"
+    no-padding={true}
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "row",
+            "marginLeft": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "color": "#fcfcfc",
+            },
+            Array [
+              Object {
+                "color": "#2a986f",
+                "marginRight": 5,
+              },
+              undefined,
+            ],
+          ],
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+        ]
+      }
+      trend={true}
+    >
+      
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+            },
+            Array [
+              Object {
+                "fontSize": 14,
+                "fontWeight": "bold",
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      trend={true}
+    >
+      0.18
+      %
+    </Text>
+  </View>
+  <View
+    margin-left="auto"
+    no-padding="true"
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "column",
+            "marginLeft": "auto",
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "https://s3-ap-southeast-1.amazonaws.com/tokenjar/zrx.png",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "height": 30,
+            "width": 30,
+          },
+          undefined,
+        ]
+      }
+    />
+  </View>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "column",
+            "marginLeft": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Roboto Condensed",
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#c8c8c8",
+                "fontSize": 13,
+                "lineHeight": 14,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Vol.
+         
+        64.23232
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Roboto Condensed",
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#c8c8c8",
+                "fontSize": 13,
+                "lineHeight": 14,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        High
+         
+        0.01212
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Roboto Condensed",
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#c8c8c8",
+                "fontSize": 13,
+                "lineHeight": 14,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Low
+         
+        0.011111
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<OrderCoinDescription /> trend: true light: renders correctly 1`] = `
+<View
+  no-padding="true"
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#5d5959",
+          "borderColor": "#2a986f",
+          "borderTopWidth": 1,
+          "display": "flex",
+          "flexDirection": "row",
+          "paddingBottom": 5,
+          "paddingLeft": 10,
+          "paddingRight": 0,
+          "paddingTop": 5,
+        },
+        undefined,
+      ],
+    ]
+  }
+  trend={true}
+>
+  <View
+    center="true"
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "column",
+            "marginLeft": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "fontWeight": "bold",
+                "lineHeight": 16,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      trend={true}
+    >
+      0.1112323
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#fff",
+              "fontSize": 12,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      $
+       
+      10.22
+    </Text>
+  </View>
+  <View
+    flex-direction="row"
+    no-padding={true}
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "row",
+            "marginLeft": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={false}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "color": "#4b4c4d",
+            },
+            Array [
+              Object {
+                "color": "#2a986f",
+                "marginRight": 5,
+              },
+              undefined,
+            ],
+          ],
+          Object {
+            "fontFamily": "icomoon",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+        ]
+      }
+      trend={true}
+    >
+      
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Array [
+          Object {
+            "fontFamily": "Roboto Condensed",
+            "fontWeight": "400",
+          },
+          Array [
+            Object {
+              "color": "#2a986f",
+            },
+            Array [
+              Object {
+                "fontSize": 14,
+                "fontWeight": "bold",
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      trend={true}
+    >
+      0.18
+      %
+    </Text>
+  </View>
+  <View
+    margin-left="auto"
+    no-padding="true"
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "column",
+            "marginLeft": "auto",
+            "paddingBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "https://s3-ap-southeast-1.amazonaws.com/tokenjar/zrx.png",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "height": 30,
+            "width": 30,
+          },
+          undefined,
+        ]
+      }
+    />
+  </View>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "alignItems": "flex-start",
+            "display": "flex",
+            "flexDirection": "column",
+            "marginLeft": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingTop": 0,
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Roboto Condensed",
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 13,
+                "lineHeight": 14,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Vol.
+         
+        64.23232
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Roboto Condensed",
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 13,
+                "lineHeight": 14,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        High
+         
+        0.01212
+      </Text>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "fontFamily": "Roboto Condensed",
+              "fontWeight": "400",
+            },
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 13,
+                "lineHeight": 14,
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Low
+         
+        0.011111
+      </Text>
+    </View>
+  </View>
+</View>
+`;

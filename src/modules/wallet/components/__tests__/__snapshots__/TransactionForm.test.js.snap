@@ -1,0 +1,3349 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TransactionForm /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "backgroundColor": "#000000",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "paddingBottom": 0,
+            "paddingLeft": 12,
+            "paddingRight": 12,
+            "paddingTop": 0,
+          },
+          Array [
+            Object {
+              "width": "56%",
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  >
+    <View
+      bottom={undefined}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "marginBottom": 0,
+              "marginTop": 15,
+            },
+            Array [
+              Object {
+                "marginTop": 10,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      top={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Gas Limit
+      </Text>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {},
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "height": 39,
+            }
+          }
+        >
+          <TextInput
+            allowFontScaling={true}
+            keyboardType="numeric"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            password={false}
+            placeholder="Type your amount here.."
+            placeholderTextColor="#eeeeee"
+            secureTextEntry={false}
+            selectionColor="#faa632"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "stretch",
+                  "backgroundColor": "transparent",
+                  "marginTop": 0,
+                  "paddingBottom": 2,
+                  "paddingTop": 2,
+                },
+                Object {
+                  "color": "rgb(117, 117, 117)",
+                  "fontSize": 16,
+                  "paddingLeft": 0,
+                  "paddingRight": 0,
+                },
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 12,
+                  "fontWeight": "300",
+                  "paddingBottom": 2,
+                  "paddingRight": 50,
+                  "paddingTop": 2,
+                },
+              ]
+            }
+            underlineColorAndroid="transparent"
+            value=""
+          />
+          <View
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#c1c1c1",
+                  "height": 1,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "#faa632",
+                  "height": 1,
+                  "left": 0,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          size="small"
+          style={
+            Array [
+              Object {
+                "color": "#fcfcfc",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.4,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          UNITS
+        </Text>
+      </View>
+    </View>
+    <View
+      bottom={undefined}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "marginBottom": 0,
+              "marginTop": 15,
+            },
+            Array [
+              Object {
+                "marginTop": 0,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      top={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Gas Price
+      </Text>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {},
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "height": 39,
+            }
+          }
+        >
+          <TextInput
+            allowFontScaling={true}
+            keyboardType="numeric"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            password={false}
+            placeholder="Type your amount here.."
+            placeholderTextColor="#eeeeee"
+            secureTextEntry={false}
+            selectionColor="#faa632"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "stretch",
+                  "backgroundColor": "transparent",
+                  "marginTop": 0,
+                  "paddingBottom": 2,
+                  "paddingTop": 2,
+                },
+                Object {
+                  "color": "rgb(117, 117, 117)",
+                  "fontSize": 16,
+                  "paddingLeft": 0,
+                  "paddingRight": 0,
+                },
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 12,
+                  "fontWeight": "300",
+                  "paddingBottom": 2,
+                  "paddingRight": 50,
+                  "paddingTop": 2,
+                },
+              ]
+            }
+            underlineColorAndroid="transparent"
+            value=""
+          />
+          <View
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#c1c1c1",
+                  "height": 1,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "#faa632",
+                  "height": 1,
+                  "left": 0,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          size="small"
+          style={
+            Array [
+              Object {
+                "color": "#fcfcfc",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.4,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          GWEI
+        </Text>
+      </View>
+    </View>
+    <View
+      bottom={undefined}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "marginBottom": 0,
+              "marginTop": 15,
+            },
+            Array [
+              Object {
+                "marginBottom": 56,
+                "marginTop": 4,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      top={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Transaction Fee
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        right={true}
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "right",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        0.00000 ETH
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "bottom": 0,
+            "flexDirection": "row",
+            "height": 40,
+            "position": "absolute",
+            "width": "100%",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "borderRightColor": "#554225",
+              "borderRightWidth": 1,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <BVLinearGradient
+        colors={
+          Array [
+            4280981615,
+            4278638919,
+          ]
+        }
+        enabled={true}
+        endPoint={undefined}
+        locations={null}
+        onPress={[Function]}
+        rounded={false}
+        startPoint={undefined}
+        style={
+          Array [
+            Object {
+              "borderRadius": 0,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "opacity": 1,
+            },
+            undefined,
+          ]
+        }
+      >
+        <MKTouchable
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          className={undefined}
+          enabled={true}
+          hitSlop={undefined}
+          maskBorderRadius={2}
+          maskColor="rgba(255,255,255,0.15)"
+          maskDuration={200}
+          maskEnabled={true}
+          nativeID={undefined}
+          onChange={[Function]}
+          onLayout={[Function]}
+          onPress={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onTouch={[Function]}
+          pointerEvents="box-only"
+          rippleColor="rgba(255,255,255,0.2)"
+          rippleDuration={200}
+          rippleLocation="tapLocation"
+          shadowAniEnabled={true}
+          shadowColor="black"
+          shadowOffset={
+            Object {
+              "height": 0,
+              "width": 0,
+            }
+          }
+          shadowOpacity={0}
+          shadowRadius={0}
+          style={
+            Array [
+              Array [
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "justifyContent": "center",
+                    "opacity": 1,
+                  },
+                  undefined,
+                ],
+                Object {},
+              ],
+              Object {
+                "shadowOffset": Object {
+                  "height": 1,
+                  "width": 0,
+                },
+              },
+            ]
+          }
+          testID={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            pointerEvents="none"
+            size="small"
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontFamily": "Open Sans",
+                  "fontSize": 16,
+                  "fontWeight": "600",
+                },
+                undefined,
+              ]
+            }
+          >
+            OK
+          </Text>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "backgroundColor": "rgba(255,255,255,0.15)",
+                "borderRadius": 0,
+                "height": 1,
+                "left": -0,
+                "opacity": 0,
+                "overflow": "hidden",
+                "position": "absolute",
+                "top": -0,
+                "width": 1,
+              }
+            }
+          >
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "rgba(255,255,255,0.2)",
+                  "borderRadius": 0,
+                  "height": 0,
+                  "left": 0,
+                  "top": 0,
+                  "transform": Array [
+                    Object {
+                      "scale": 0,
+                    },
+                  ],
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </MKTouchable>
+      </BVLinearGradient>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "borderRightColor": "#554225",
+              "borderRightWidth": 1,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <BVLinearGradient
+        colors={
+          Array [
+            4292412998,
+            4293411125,
+          ]
+        }
+        enabled={true}
+        endPoint={undefined}
+        locations={null}
+        onPress={[Function]}
+        rounded={false}
+        startPoint={undefined}
+        style={
+          Array [
+            Object {
+              "borderRadius": 0,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "opacity": 1,
+            },
+            undefined,
+          ]
+        }
+      >
+        <MKTouchable
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          className={undefined}
+          enabled={true}
+          hitSlop={undefined}
+          maskBorderRadius={2}
+          maskColor="rgba(255,255,255,0.15)"
+          maskDuration={200}
+          maskEnabled={true}
+          nativeID={undefined}
+          onChange={[Function]}
+          onLayout={[Function]}
+          onPress={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onTouch={[Function]}
+          pointerEvents="box-only"
+          rippleColor="rgba(255,255,255,0.2)"
+          rippleDuration={200}
+          rippleLocation="tapLocation"
+          shadowAniEnabled={true}
+          shadowColor="black"
+          shadowOffset={
+            Object {
+              "height": 0,
+              "width": 0,
+            }
+          }
+          shadowOpacity={0}
+          shadowRadius={0}
+          style={
+            Array [
+              Array [
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "justifyContent": "center",
+                    "opacity": 1,
+                  },
+                  undefined,
+                ],
+                Object {},
+              ],
+              Object {
+                "shadowOffset": Object {
+                  "height": 1,
+                  "width": 0,
+                },
+              },
+            ]
+          }
+          testID={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            pointerEvents="none"
+            size="small"
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontFamily": "Open Sans",
+                  "fontSize": 16,
+                  "fontWeight": "600",
+                },
+                undefined,
+              ]
+            }
+          >
+            Cancel
+          </Text>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "backgroundColor": "rgba(255,255,255,0.15)",
+                "borderRadius": 0,
+                "height": 1,
+                "left": -0,
+                "opacity": 0,
+                "overflow": "hidden",
+                "position": "absolute",
+                "top": -0,
+                "width": 1,
+              }
+            }
+          >
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "rgba(255,255,255,0.2)",
+                  "borderRadius": 0,
+                  "height": 0,
+                  "left": 0,
+                  "top": 0,
+                  "transform": Array [
+                    Object {
+                      "scale": 0,
+                    },
+                  ],
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </MKTouchable>
+      </BVLinearGradient>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<TransactionForm /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "backgroundColor": "#fefaec",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "paddingBottom": 0,
+            "paddingLeft": 12,
+            "paddingRight": 12,
+            "paddingTop": 0,
+          },
+          Array [
+            Object {
+              "width": "56%",
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  >
+    <View
+      bottom={undefined}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "marginBottom": 0,
+              "marginTop": 15,
+            },
+            Array [
+              Object {
+                "marginTop": 10,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      top={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Gas Limit
+      </Text>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {},
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "height": 39,
+            }
+          }
+        >
+          <TextInput
+            allowFontScaling={true}
+            keyboardType="numeric"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            password={false}
+            placeholder="Type your amount here.."
+            placeholderTextColor="#3d3b3b"
+            secureTextEntry={false}
+            selectionColor="#faa632"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "stretch",
+                  "backgroundColor": "transparent",
+                  "marginTop": 0,
+                  "paddingBottom": 2,
+                  "paddingTop": 2,
+                },
+                Object {
+                  "color": "rgb(117, 117, 117)",
+                  "fontSize": 16,
+                  "paddingLeft": 0,
+                  "paddingRight": 0,
+                },
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 12,
+                  "fontWeight": "300",
+                  "paddingBottom": 2,
+                  "paddingRight": 50,
+                  "paddingTop": 2,
+                },
+              ]
+            }
+            underlineColorAndroid="transparent"
+            value=""
+          />
+          <View
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#4b4c4d",
+                  "height": 1,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "#faa632",
+                  "height": 1,
+                  "left": 0,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          size="small"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.4,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          UNITS
+        </Text>
+      </View>
+    </View>
+    <View
+      bottom={undefined}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "marginBottom": 0,
+              "marginTop": 15,
+            },
+            Array [
+              Object {
+                "marginTop": 0,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      top={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Gas Price
+      </Text>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {},
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "height": 39,
+            }
+          }
+        >
+          <TextInput
+            allowFontScaling={true}
+            keyboardType="numeric"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            password={false}
+            placeholder="Type your amount here.."
+            placeholderTextColor="#3d3b3b"
+            secureTextEntry={false}
+            selectionColor="#faa632"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "stretch",
+                  "backgroundColor": "transparent",
+                  "marginTop": 0,
+                  "paddingBottom": 2,
+                  "paddingTop": 2,
+                },
+                Object {
+                  "color": "rgb(117, 117, 117)",
+                  "fontSize": 16,
+                  "paddingLeft": 0,
+                  "paddingRight": 0,
+                },
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 12,
+                  "fontWeight": "300",
+                  "paddingBottom": 2,
+                  "paddingRight": 50,
+                  "paddingTop": 2,
+                },
+              ]
+            }
+            underlineColorAndroid="transparent"
+            value=""
+          />
+          <View
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#4b4c4d",
+                  "height": 1,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "#faa632",
+                  "height": 1,
+                  "left": 0,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          size="small"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.4,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          GWEI
+        </Text>
+      </View>
+    </View>
+    <View
+      bottom={undefined}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "marginBottom": 0,
+              "marginTop": 15,
+            },
+            Array [
+              Object {
+                "marginBottom": 56,
+                "marginTop": 4,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      top={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Transaction Fee
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        right={true}
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "right",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        0.00000 ETH
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "bottom": 0,
+            "flexDirection": "row",
+            "height": 40,
+            "position": "absolute",
+            "width": "100%",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "borderRightColor": "#554225",
+              "borderRightWidth": 1,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <BVLinearGradient
+        colors={
+          Array [
+            4280981615,
+            4278638919,
+          ]
+        }
+        enabled={true}
+        endPoint={undefined}
+        locations={null}
+        onPress={[Function]}
+        rounded={false}
+        startPoint={undefined}
+        style={
+          Array [
+            Object {
+              "borderRadius": 0,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "opacity": 1,
+            },
+            undefined,
+          ]
+        }
+      >
+        <MKTouchable
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          className={undefined}
+          enabled={true}
+          hitSlop={undefined}
+          maskBorderRadius={2}
+          maskColor="rgba(255,255,255,0.15)"
+          maskDuration={200}
+          maskEnabled={true}
+          nativeID={undefined}
+          onChange={[Function]}
+          onLayout={[Function]}
+          onPress={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onTouch={[Function]}
+          pointerEvents="box-only"
+          rippleColor="rgba(255,255,255,0.2)"
+          rippleDuration={200}
+          rippleLocation="tapLocation"
+          shadowAniEnabled={true}
+          shadowColor="black"
+          shadowOffset={
+            Object {
+              "height": 0,
+              "width": 0,
+            }
+          }
+          shadowOpacity={0}
+          shadowRadius={0}
+          style={
+            Array [
+              Array [
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "justifyContent": "center",
+                    "opacity": 1,
+                  },
+                  undefined,
+                ],
+                Object {},
+              ],
+              Object {
+                "shadowOffset": Object {
+                  "height": 1,
+                  "width": 0,
+                },
+              },
+            ]
+          }
+          testID={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            pointerEvents="none"
+            size="small"
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontFamily": "Open Sans",
+                  "fontSize": 16,
+                  "fontWeight": "600",
+                },
+                undefined,
+              ]
+            }
+          >
+            OK
+          </Text>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "backgroundColor": "rgba(255,255,255,0.15)",
+                "borderRadius": 0,
+                "height": 1,
+                "left": -0,
+                "opacity": 0,
+                "overflow": "hidden",
+                "position": "absolute",
+                "top": -0,
+                "width": 1,
+              }
+            }
+          >
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "rgba(255,255,255,0.2)",
+                  "borderRadius": 0,
+                  "height": 0,
+                  "left": 0,
+                  "top": 0,
+                  "transform": Array [
+                    Object {
+                      "scale": 0,
+                    },
+                  ],
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </MKTouchable>
+      </BVLinearGradient>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "borderRightColor": "#554225",
+              "borderRightWidth": 1,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <BVLinearGradient
+        colors={
+          Array [
+            4292412998,
+            4293411125,
+          ]
+        }
+        enabled={true}
+        endPoint={undefined}
+        locations={null}
+        onPress={[Function]}
+        rounded={false}
+        startPoint={undefined}
+        style={
+          Array [
+            Object {
+              "borderRadius": 0,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "opacity": 1,
+            },
+            undefined,
+          ]
+        }
+      >
+        <MKTouchable
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          className={undefined}
+          enabled={true}
+          hitSlop={undefined}
+          maskBorderRadius={2}
+          maskColor="rgba(255,255,255,0.15)"
+          maskDuration={200}
+          maskEnabled={true}
+          nativeID={undefined}
+          onChange={[Function]}
+          onLayout={[Function]}
+          onPress={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onTouch={[Function]}
+          pointerEvents="box-only"
+          rippleColor="rgba(255,255,255,0.2)"
+          rippleDuration={200}
+          rippleLocation="tapLocation"
+          shadowAniEnabled={true}
+          shadowColor="black"
+          shadowOffset={
+            Object {
+              "height": 0,
+              "width": 0,
+            }
+          }
+          shadowOpacity={0}
+          shadowRadius={0}
+          style={
+            Array [
+              Array [
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "justifyContent": "center",
+                    "opacity": 1,
+                  },
+                  undefined,
+                ],
+                Object {},
+              ],
+              Object {
+                "shadowOffset": Object {
+                  "height": 1,
+                  "width": 0,
+                },
+              },
+            ]
+          }
+          testID={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            pointerEvents="none"
+            size="small"
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontFamily": "Open Sans",
+                  "fontSize": 16,
+                  "fontWeight": "600",
+                },
+                undefined,
+              ]
+            }
+          >
+            Cancel
+          </Text>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "backgroundColor": "rgba(255,255,255,0.15)",
+                "borderRadius": 0,
+                "height": 1,
+                "left": -0,
+                "opacity": 0,
+                "overflow": "hidden",
+                "position": "absolute",
+                "top": -0,
+                "width": 1,
+              }
+            }
+          >
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "rgba(255,255,255,0.2)",
+                  "borderRadius": 0,
+                  "height": 0,
+                  "left": 0,
+                  "top": 0,
+                  "transform": Array [
+                    Object {
+                      "scale": 0,
+                    },
+                  ],
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </MKTouchable>
+      </BVLinearGradient>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<TransactionForm /> values dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "backgroundColor": "#000000",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "paddingBottom": 0,
+            "paddingLeft": 12,
+            "paddingRight": 12,
+            "paddingTop": 0,
+          },
+          Array [
+            Object {
+              "width": "56%",
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  >
+    <View
+      bottom={undefined}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "marginBottom": 0,
+              "marginTop": 15,
+            },
+            Array [
+              Object {
+                "marginTop": 10,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      top={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Gas Limit
+      </Text>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {},
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "height": 39,
+            }
+          }
+        >
+          <TextInput
+            allowFontScaling={true}
+            keyboardType="numeric"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            password={false}
+            placeholder="Type your amount here.."
+            placeholderTextColor="#eeeeee"
+            secureTextEntry={false}
+            selectionColor="#faa632"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "stretch",
+                  "backgroundColor": "transparent",
+                  "marginTop": 0,
+                  "paddingBottom": 2,
+                  "paddingTop": 2,
+                },
+                Object {
+                  "color": "rgb(117, 117, 117)",
+                  "fontSize": 16,
+                  "paddingLeft": 0,
+                  "paddingRight": 0,
+                },
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 12,
+                  "fontWeight": "300",
+                  "paddingBottom": 2,
+                  "paddingRight": 50,
+                  "paddingTop": 2,
+                },
+              ]
+            }
+            underlineColorAndroid="transparent"
+            value="235"
+          />
+          <View
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#c1c1c1",
+                  "height": 1,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "#faa632",
+                  "height": 1,
+                  "left": 0,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          size="small"
+          style={
+            Array [
+              Object {
+                "color": "#fcfcfc",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.4,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          UNITS
+        </Text>
+      </View>
+    </View>
+    <View
+      bottom={undefined}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "marginBottom": 0,
+              "marginTop": 15,
+            },
+            Array [
+              Object {
+                "marginTop": 0,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      top={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Gas Price
+      </Text>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {},
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "height": 39,
+            }
+          }
+        >
+          <TextInput
+            allowFontScaling={true}
+            keyboardType="numeric"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            password={false}
+            placeholder="Type your amount here.."
+            placeholderTextColor="#eeeeee"
+            secureTextEntry={false}
+            selectionColor="#faa632"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "stretch",
+                  "backgroundColor": "transparent",
+                  "marginTop": 0,
+                  "paddingBottom": 2,
+                  "paddingTop": 2,
+                },
+                Object {
+                  "color": "rgb(117, 117, 117)",
+                  "fontSize": 16,
+                  "paddingLeft": 0,
+                  "paddingRight": 0,
+                },
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 12,
+                  "fontWeight": "300",
+                  "paddingBottom": 2,
+                  "paddingRight": 50,
+                  "paddingTop": 2,
+                },
+              ]
+            }
+            underlineColorAndroid="transparent"
+            value="16"
+          />
+          <View
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#c1c1c1",
+                  "height": 1,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "#faa632",
+                  "height": 1,
+                  "left": 0,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          size="small"
+          style={
+            Array [
+              Object {
+                "color": "#fcfcfc",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.4,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          GWEI
+        </Text>
+      </View>
+    </View>
+    <View
+      bottom={undefined}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "marginBottom": 0,
+              "marginTop": 15,
+            },
+            Array [
+              Object {
+                "marginBottom": 56,
+                "marginTop": 4,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      top={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Transaction Fee
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        right={true}
+        style={
+          Array [
+            Object {
+              "color": "#fcfcfc",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "right",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        0.00000 ETH
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "bottom": 0,
+            "flexDirection": "row",
+            "height": 40,
+            "position": "absolute",
+            "width": "100%",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "borderRightColor": "#554225",
+              "borderRightWidth": 1,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <BVLinearGradient
+        colors={
+          Array [
+            4280981615,
+            4278638919,
+          ]
+        }
+        enabled={true}
+        endPoint={undefined}
+        locations={null}
+        onPress={[Function]}
+        rounded={false}
+        startPoint={undefined}
+        style={
+          Array [
+            Object {
+              "borderRadius": 0,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "opacity": 1,
+            },
+            undefined,
+          ]
+        }
+      >
+        <MKTouchable
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          className={undefined}
+          enabled={true}
+          hitSlop={undefined}
+          maskBorderRadius={2}
+          maskColor="rgba(255,255,255,0.15)"
+          maskDuration={200}
+          maskEnabled={true}
+          nativeID={undefined}
+          onChange={[Function]}
+          onLayout={[Function]}
+          onPress={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onTouch={[Function]}
+          pointerEvents="box-only"
+          rippleColor="rgba(255,255,255,0.2)"
+          rippleDuration={200}
+          rippleLocation="tapLocation"
+          shadowAniEnabled={true}
+          shadowColor="black"
+          shadowOffset={
+            Object {
+              "height": 0,
+              "width": 0,
+            }
+          }
+          shadowOpacity={0}
+          shadowRadius={0}
+          style={
+            Array [
+              Array [
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "justifyContent": "center",
+                    "opacity": 1,
+                  },
+                  undefined,
+                ],
+                Object {},
+              ],
+              Object {
+                "shadowOffset": Object {
+                  "height": 1,
+                  "width": 0,
+                },
+              },
+            ]
+          }
+          testID={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            pointerEvents="none"
+            size="small"
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontFamily": "Open Sans",
+                  "fontSize": 16,
+                  "fontWeight": "600",
+                },
+                undefined,
+              ]
+            }
+          >
+            OK
+          </Text>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "backgroundColor": "rgba(255,255,255,0.15)",
+                "borderRadius": 0,
+                "height": 1,
+                "left": -0,
+                "opacity": 0,
+                "overflow": "hidden",
+                "position": "absolute",
+                "top": -0,
+                "width": 1,
+              }
+            }
+          >
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "rgba(255,255,255,0.2)",
+                  "borderRadius": 0,
+                  "height": 0,
+                  "left": 0,
+                  "top": 0,
+                  "transform": Array [
+                    Object {
+                      "scale": 0,
+                    },
+                  ],
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </MKTouchable>
+      </BVLinearGradient>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "borderRightColor": "#554225",
+              "borderRightWidth": 1,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <BVLinearGradient
+        colors={
+          Array [
+            4292412998,
+            4293411125,
+          ]
+        }
+        enabled={true}
+        endPoint={undefined}
+        locations={null}
+        onPress={[Function]}
+        rounded={false}
+        startPoint={undefined}
+        style={
+          Array [
+            Object {
+              "borderRadius": 0,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "opacity": 1,
+            },
+            undefined,
+          ]
+        }
+      >
+        <MKTouchable
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          className={undefined}
+          enabled={true}
+          hitSlop={undefined}
+          maskBorderRadius={2}
+          maskColor="rgba(255,255,255,0.15)"
+          maskDuration={200}
+          maskEnabled={true}
+          nativeID={undefined}
+          onChange={[Function]}
+          onLayout={[Function]}
+          onPress={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onTouch={[Function]}
+          pointerEvents="box-only"
+          rippleColor="rgba(255,255,255,0.2)"
+          rippleDuration={200}
+          rippleLocation="tapLocation"
+          shadowAniEnabled={true}
+          shadowColor="black"
+          shadowOffset={
+            Object {
+              "height": 0,
+              "width": 0,
+            }
+          }
+          shadowOpacity={0}
+          shadowRadius={0}
+          style={
+            Array [
+              Array [
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "justifyContent": "center",
+                    "opacity": 1,
+                  },
+                  undefined,
+                ],
+                Object {},
+              ],
+              Object {
+                "shadowOffset": Object {
+                  "height": 1,
+                  "width": 0,
+                },
+              },
+            ]
+          }
+          testID={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            pointerEvents="none"
+            size="small"
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontFamily": "Open Sans",
+                  "fontSize": 16,
+                  "fontWeight": "600",
+                },
+                undefined,
+              ]
+            }
+          >
+            Cancel
+          </Text>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "backgroundColor": "rgba(255,255,255,0.15)",
+                "borderRadius": 0,
+                "height": 1,
+                "left": -0,
+                "opacity": 0,
+                "overflow": "hidden",
+                "position": "absolute",
+                "top": -0,
+                "width": 1,
+              }
+            }
+          >
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "rgba(255,255,255,0.2)",
+                  "borderRadius": 0,
+                  "height": 0,
+                  "left": 0,
+                  "top": 0,
+                  "transform": Array [
+                    Object {
+                      "scale": 0,
+                    },
+                  ],
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </MKTouchable>
+      </BVLinearGradient>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`<TransactionForm /> values light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "backgroundColor": "#fefaec",
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "paddingBottom": 0,
+            "paddingLeft": 12,
+            "paddingRight": 12,
+            "paddingTop": 0,
+          },
+          Array [
+            Object {
+              "width": "56%",
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  >
+    <View
+      bottom={undefined}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "marginBottom": 0,
+              "marginTop": 15,
+            },
+            Array [
+              Object {
+                "marginTop": 10,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      top={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Gas Limit
+      </Text>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {},
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "height": 39,
+            }
+          }
+        >
+          <TextInput
+            allowFontScaling={true}
+            keyboardType="numeric"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            password={false}
+            placeholder="Type your amount here.."
+            placeholderTextColor="#3d3b3b"
+            secureTextEntry={false}
+            selectionColor="#faa632"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "stretch",
+                  "backgroundColor": "transparent",
+                  "marginTop": 0,
+                  "paddingBottom": 2,
+                  "paddingTop": 2,
+                },
+                Object {
+                  "color": "rgb(117, 117, 117)",
+                  "fontSize": 16,
+                  "paddingLeft": 0,
+                  "paddingRight": 0,
+                },
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 12,
+                  "fontWeight": "300",
+                  "paddingBottom": 2,
+                  "paddingRight": 50,
+                  "paddingTop": 2,
+                },
+              ]
+            }
+            underlineColorAndroid="transparent"
+            value="235"
+          />
+          <View
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#4b4c4d",
+                  "height": 1,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "#faa632",
+                  "height": 1,
+                  "left": 0,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          size="small"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.4,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          UNITS
+        </Text>
+      </View>
+    </View>
+    <View
+      bottom={undefined}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "marginBottom": 0,
+              "marginTop": 15,
+            },
+            Array [
+              Object {
+                "marginTop": 0,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      top={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Gas Price
+      </Text>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {},
+              undefined,
+            ],
+          ]
+        }
+      >
+        <View
+          style={
+            Object {
+              "height": 39,
+            }
+          }
+        >
+          <TextInput
+            allowFontScaling={true}
+            keyboardType="numeric"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onChangeText={[Function]}
+            onFocus={[Function]}
+            password={false}
+            placeholder="Type your amount here.."
+            placeholderTextColor="#3d3b3b"
+            secureTextEntry={false}
+            selectionColor="#faa632"
+            style={
+              Array [
+                Object {
+                  "alignSelf": "stretch",
+                  "backgroundColor": "transparent",
+                  "marginTop": 0,
+                  "paddingBottom": 2,
+                  "paddingTop": 2,
+                },
+                Object {
+                  "color": "rgb(117, 117, 117)",
+                  "fontSize": 16,
+                  "paddingLeft": 0,
+                  "paddingRight": 0,
+                },
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 12,
+                  "fontWeight": "300",
+                  "paddingBottom": 2,
+                  "paddingRight": 50,
+                  "paddingTop": 2,
+                },
+              ]
+            }
+            underlineColorAndroid="transparent"
+            value="16"
+          />
+          <View
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 1,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "backgroundColor": "#4b4c4d",
+                  "height": 1,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "#faa632",
+                  "height": 1,
+                  "left": 0,
+                  "position": "absolute",
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </View>
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          ellipsizeMode="tail"
+          size="small"
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Open Sans",
+              },
+              Array [
+                Object {
+                  "color": "#faa632",
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.4,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          GWEI
+        </Text>
+      </View>
+    </View>
+    <View
+      bottom={undefined}
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "marginBottom": 0,
+              "marginTop": 15,
+            },
+            Array [
+              Object {
+                "marginBottom": 56,
+                "marginTop": 4,
+              },
+              undefined,
+            ],
+          ],
+        ]
+      }
+      top={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        Transaction Fee
+      </Text>
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        right={true}
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Open Sans",
+            },
+            Array [
+              Object {
+                "fontFamily": "Lato",
+                "fontSize": 15,
+                "fontWeight": "400",
+                "marginBottom": 5,
+                "marginLeft": 0,
+                "marginRight": 0,
+                "marginTop": 5,
+              },
+              Array [
+                Object {
+                  "fontFamily": "Roboto Condensed",
+                  "fontSize": 14,
+                  "marginTop": 0,
+                  "textAlign": "right",
+                },
+                undefined,
+              ],
+            ],
+          ]
+        }
+      >
+        0.00000 ETH
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {},
+        Array [
+          Object {
+            "bottom": 0,
+            "flexDirection": "row",
+            "height": 40,
+            "position": "absolute",
+            "width": "100%",
+          },
+          undefined,
+        ],
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "borderRightColor": "#554225",
+              "borderRightWidth": 1,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <BVLinearGradient
+        colors={
+          Array [
+            4280981615,
+            4278638919,
+          ]
+        }
+        enabled={true}
+        endPoint={undefined}
+        locations={null}
+        onPress={[Function]}
+        rounded={false}
+        startPoint={undefined}
+        style={
+          Array [
+            Object {
+              "borderRadius": 0,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "opacity": 1,
+            },
+            undefined,
+          ]
+        }
+      >
+        <MKTouchable
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          className={undefined}
+          enabled={true}
+          hitSlop={undefined}
+          maskBorderRadius={2}
+          maskColor="rgba(255,255,255,0.15)"
+          maskDuration={200}
+          maskEnabled={true}
+          nativeID={undefined}
+          onChange={[Function]}
+          onLayout={[Function]}
+          onPress={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onTouch={[Function]}
+          pointerEvents="box-only"
+          rippleColor="rgba(255,255,255,0.2)"
+          rippleDuration={200}
+          rippleLocation="tapLocation"
+          shadowAniEnabled={true}
+          shadowColor="black"
+          shadowOffset={
+            Object {
+              "height": 0,
+              "width": 0,
+            }
+          }
+          shadowOpacity={0}
+          shadowRadius={0}
+          style={
+            Array [
+              Array [
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "justifyContent": "center",
+                    "opacity": 1,
+                  },
+                  undefined,
+                ],
+                Object {},
+              ],
+              Object {
+                "shadowOffset": Object {
+                  "height": 1,
+                  "width": 0,
+                },
+              },
+            ]
+          }
+          testID={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            pointerEvents="none"
+            size="small"
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontFamily": "Open Sans",
+                  "fontSize": 16,
+                  "fontWeight": "600",
+                },
+                undefined,
+              ]
+            }
+          >
+            OK
+          </Text>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "backgroundColor": "rgba(255,255,255,0.15)",
+                "borderRadius": 0,
+                "height": 1,
+                "left": -0,
+                "opacity": 0,
+                "overflow": "hidden",
+                "position": "absolute",
+                "top": -0,
+                "width": 1,
+              }
+            }
+          >
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "rgba(255,255,255,0.2)",
+                  "borderRadius": 0,
+                  "height": 0,
+                  "left": 0,
+                  "top": 0,
+                  "transform": Array [
+                    Object {
+                      "scale": 0,
+                    },
+                  ],
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </MKTouchable>
+      </BVLinearGradient>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          Array [
+            Object {
+              "borderRightColor": "#554225",
+              "borderRightWidth": 1,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <BVLinearGradient
+        colors={
+          Array [
+            4292412998,
+            4293411125,
+          ]
+        }
+        enabled={true}
+        endPoint={undefined}
+        locations={null}
+        onPress={[Function]}
+        rounded={false}
+        startPoint={undefined}
+        style={
+          Array [
+            Object {
+              "borderRadius": 0,
+              "flexBasis": 0,
+              "flexGrow": 1,
+              "flexShrink": 1,
+              "opacity": 1,
+            },
+            undefined,
+          ]
+        }
+      >
+        <MKTouchable
+          accessibilityComponentType={undefined}
+          accessibilityLabel={undefined}
+          accessibilityTraits={undefined}
+          accessible={true}
+          className={undefined}
+          enabled={true}
+          hitSlop={undefined}
+          maskBorderRadius={2}
+          maskColor="rgba(255,255,255,0.15)"
+          maskDuration={200}
+          maskEnabled={true}
+          nativeID={undefined}
+          onChange={[Function]}
+          onLayout={[Function]}
+          onPress={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onTouch={[Function]}
+          pointerEvents="box-only"
+          rippleColor="rgba(255,255,255,0.2)"
+          rippleDuration={200}
+          rippleLocation="tapLocation"
+          shadowAniEnabled={true}
+          shadowColor="black"
+          shadowOffset={
+            Object {
+              "height": 0,
+              "width": 0,
+            }
+          }
+          shadowOpacity={0}
+          shadowRadius={0}
+          style={
+            Array [
+              Array [
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexBasis": 0,
+                    "flexGrow": 1,
+                    "flexShrink": 1,
+                    "justifyContent": "center",
+                    "opacity": 1,
+                  },
+                  undefined,
+                ],
+                Object {},
+              ],
+              Object {
+                "shadowOffset": Object {
+                  "height": 1,
+                  "width": 0,
+                },
+              },
+            ]
+          }
+          testID={undefined}
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            pointerEvents="none"
+            size="small"
+            style={
+              Array [
+                Object {
+                  "color": "white",
+                  "fontFamily": "Open Sans",
+                  "fontSize": 16,
+                  "fontWeight": "600",
+                },
+                undefined,
+              ]
+            }
+          >
+            Cancel
+          </Text>
+          <View
+            collapsable={undefined}
+            style={
+              Object {
+                "backgroundColor": "rgba(255,255,255,0.15)",
+                "borderRadius": 0,
+                "height": 1,
+                "left": -0,
+                "opacity": 0,
+                "overflow": "hidden",
+                "position": "absolute",
+                "top": -0,
+                "width": 1,
+              }
+            }
+          >
+            <View
+              collapsable={undefined}
+              style={
+                Object {
+                  "backgroundColor": "rgba(255,255,255,0.2)",
+                  "borderRadius": 0,
+                  "height": 0,
+                  "left": 0,
+                  "top": 0,
+                  "transform": Array [
+                    Object {
+                      "scale": 0,
+                    },
+                  ],
+                  "width": 0,
+                }
+              }
+            />
+          </View>
+        </MKTouchable>
+      </BVLinearGradient>
+    </View>
+  </View>
+</View>
+`;

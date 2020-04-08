@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TableSeparator /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#000",
+          "justifyContent": "center",
+          "paddingBottom": 11,
+          "paddingLeft": 0,
+          "paddingRight": 0,
+          "paddingTop": 11,
+          "width": "100%",
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<TableSeparator /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#d6d5d1",
+          "justifyContent": "center",
+          "paddingBottom": 11,
+          "paddingLeft": 0,
+          "paddingRight": 0,
+          "paddingTop": 11,
+          "width": "100%",
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;

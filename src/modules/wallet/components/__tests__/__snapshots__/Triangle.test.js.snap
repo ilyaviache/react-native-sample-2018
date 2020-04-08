@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Triangle /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "position": "relative",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+          "borderStyle": "solid",
+          "height": 0,
+          "width": 0,
+        },
+        Object {
+          "borderBottomColor": "transparent",
+          "borderBottomWidth": 0,
+          "borderLeftColor": "white",
+          "borderLeftWidth": 22,
+          "borderRightColor": "transparent",
+          "borderRightWidth": 0,
+          "borderTopColor": "transparent",
+          "borderTopWidth": 22,
+        },
+        Array [
+          Object {},
+          undefined,
+        ],
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`<Triangle /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "position": "relative",
+        },
+        undefined,
+      ],
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+          "borderStyle": "solid",
+          "height": 0,
+          "width": 0,
+        },
+        Object {
+          "borderBottomColor": "transparent",
+          "borderBottomWidth": 0,
+          "borderLeftColor": "white",
+          "borderLeftWidth": 22,
+          "borderRightColor": "transparent",
+          "borderRightWidth": 0,
+          "borderTopColor": "transparent",
+          "borderTopWidth": 22,
+        },
+        Array [
+          Object {},
+          undefined,
+        ],
+      ]
+    }
+  />
+</View>
+`;

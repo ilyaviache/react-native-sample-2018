@@ -1,0 +1,231 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SeedWordInput /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 18,
+        },
+        Array [
+          Object {
+            "color": "#fcfcfc",
+          },
+          undefined,
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#fcfcfc",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "fontFamily": "Lato",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "marginBottom": 5,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 5,
+          },
+          Array [
+            Object {
+              "color": "#faa632",
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  >
+    test
+  </Text>
+  <TextInput
+    allowFontScaling={true}
+    editable={true}
+    error={false}
+    height={120}
+    multiline={true}
+    name="seed_word"
+    numberOfLines={10}
+    onBlur={[Function]}
+    onChange={[MockFunction]}
+    onChangeText={[Function]}
+    placeholder={undefined}
+    placeholderTextColor="#c1c1c1"
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#282828",
+          "borderColor": "#282828",
+          "borderWidth": 1,
+          "color": "#fcfcfc",
+          "fontSize": 14,
+          "fontStyle": "italic",
+          "minHeight": 120,
+          "paddingBottom": 8,
+          "paddingLeft": 10,
+          "paddingRight": 10,
+          "paddingTop": 8,
+        },
+        Array [
+          Object {
+            "marginBottom": 20,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 20,
+            "paddingTop": 22,
+          },
+          undefined,
+        ],
+      ]
+    }
+    value="test word"
+  />
+</View>
+`;
+
+exports[`<SeedWordInput /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {},
+        undefined,
+      ],
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={false}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 18,
+        },
+        Array [
+          Object {
+            "color": "#4b4c4d",
+          },
+          undefined,
+        ],
+        Object {
+          "fontFamily": "icomoon",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+      ]
+    }
+  >
+    
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "color": "#000000",
+          "fontFamily": "Open Sans",
+        },
+        Array [
+          Object {
+            "fontFamily": "Lato",
+            "fontSize": 15,
+            "fontWeight": "400",
+            "marginBottom": 5,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 5,
+          },
+          Array [
+            Object {
+              "color": "#faa632",
+            },
+            undefined,
+          ],
+        ],
+      ]
+    }
+  >
+    test
+  </Text>
+  <TextInput
+    allowFontScaling={true}
+    editable={true}
+    error={false}
+    height={120}
+    multiline={true}
+    name="seed_word"
+    numberOfLines={10}
+    onBlur={[Function]}
+    onChange={[MockFunction]}
+    onChangeText={[Function]}
+    placeholder={undefined}
+    placeholderTextColor="#c1c1c1"
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#5d5959",
+          "borderColor": "#5d5959",
+          "borderWidth": 1,
+          "color": "#fcfcfc",
+          "fontSize": 14,
+          "fontStyle": "italic",
+          "minHeight": 120,
+          "paddingBottom": 8,
+          "paddingLeft": 10,
+          "paddingRight": 10,
+          "paddingTop": 8,
+        },
+        Array [
+          Object {
+            "marginBottom": 20,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 20,
+            "paddingTop": 22,
+          },
+          undefined,
+        ],
+      ]
+    }
+    value="test word"
+  />
+</View>
+`;

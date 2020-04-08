@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StickyButtonContainer /> dark: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "bottom": 0,
+          "flexDirection": "row",
+          "height": 40,
+          "position": "absolute",
+          "width": "100%",
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<StickyButtonContainer /> light: renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Array [
+        Object {
+          "bottom": 0,
+          "flexDirection": "row",
+          "height": 40,
+          "position": "absolute",
+          "width": "100%",
+        },
+        undefined,
+      ],
+    ]
+  }
+/>
+`;
+
+exports[`<StickyButtonContainer /> renders component when passed in 1`] = `
+<Styled(View)>
+  <Component />
+</Styled(View)>
+`;
+
+exports[`<StickyButtonContainer /> renders text when passed in 1`] = `
+<Styled(View)>
+  Test
+</Styled(View)>
+`;
