@@ -19,7 +19,7 @@
     "bugsnag-sourcemaps:ios": "bugsnag-sourcemaps --api-key f618b2c2830cf9a40c1dca639b8cb442 --app-version 1.0.1  --minified-file ./ios/tokenjar/main.jsbundle --source-map ios-debug.bundle.map --minified-url main.jsbundle --upload-sources"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bugsnag-react-native": "^2.9.3",
     "crypto-js": "^3.1.9-1",
     "formik": "^0.11.11",
