@@ -28,7 +28,7 @@
     "metro": "^0.28.0",
     "prop-types": "^15.6.0",
     "react": "16.4.1",
-    "react-native": "0.55.3",
+    "react-native": "0.70.4",
     "react-native-config": "^0.11.5",
     "react-native-i18n": "^2.0.12",
     "react-native-linear-gradient": "^2.4.0",
